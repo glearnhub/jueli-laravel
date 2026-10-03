@@ -7,12 +7,13 @@
                 </a>
                 <p>Engineering Solutions for a Sustainable Future. Providing innovative, cost-efficient, and
                     high-quality engineering services across multiple sectors.</p>
-                <div class="social-links">
-                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                    <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                </div>
+                @if ($socialLinks = $site->socialLinks())
+                    <div class="social-links">
+                        @foreach ($socialLinks as $link)
+                            <a href="{{ $link['url'] }}" target="_blank" rel="noopener noreferrer" aria-label="{{ $link['label'] }}"><i class="{{ $link['icon'] }}"></i></a>
+                        @endforeach
+                    </div>
+                @endif
             </div>
             <div class="footer-col">
                 <h3>Quick Links</h3>
@@ -37,19 +38,19 @@
             <div class="footer-col">
                 <h3>Contact Info</h3>
                 <ul>
-                    <li><i class="fas fa-map-marker-alt"></i> Nairobi Industrial Area, Kenya</li>
-                    <li><i class="fas fa-phone-alt"></i> +254 704 553 400</li>
-                    <li><i class="fas fa-envelope"></i> info@jueliengineeringltd.co.ke</li>
+                    <li><i class="fas fa-map-marker-alt"></i> {{ $site->address() }}</li>
+                    <li><i class="fas fa-phone-alt"></i> <a href="tel:{{ preg_replace('/[^0-9+]/', '', $site->phone()) }}">{{ $site->phone() }}</a></li>
+                    <li><i class="fas fa-envelope"></i> <a href="mailto:{{ $site->email() }}">{{ $site->email() }}</a></li>
                 </ul>
             </div>
         </div>
         <div class="copyright">
-            <p>&copy; {{ now()->year }} JUELI ENGINEERING LTD. All Rights Reserved.</p>
+            <p>&copy; {{ now()->year }} {{ strtoupper($site->name()) }}. All Rights Reserved.</p>
         </div>
     </div>
 </footer>
 
-<a href="https://wa.me/254704553400?text=Hello%20JUELI%20ENGINEERING%20LTD,%20I%20have%20an%20inquiry%20about%20your%20products"
+<a href="{{ $site->whatsappUrl('Hello JUELI ENGINEERING LTD, I have an inquiry about your products') }}"
     class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
     <i class="fab fa-whatsapp"></i>
 </a>

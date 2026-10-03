@@ -22,10 +22,10 @@ class UpdateSettingsRequest extends FormRequest
             'contact_email' => ['required', 'email', 'max:255'],
             'contact_phone' => ['required', 'string', 'max:50'],
             'contact_address' => ['nullable', 'string', 'max:500'],
-            'facebook_url' => ['nullable', 'url', 'max:255'],
-            'twitter_url' => ['nullable', 'url', 'max:255'],
-            'linkedin_url' => ['nullable', 'url', 'max:255'],
-            'instagram_url' => ['nullable', 'url', 'max:255'],
+            'facebook_url' => ['nullable', 'url:http,https', 'max:255'],
+            'twitter_url' => ['nullable', 'url:http,https', 'max:255'],
+            'linkedin_url' => ['nullable', 'url:http,https', 'max:255'],
+            'instagram_url' => ['nullable', 'url:http,https', 'max:255'],
         ];
     }
 }

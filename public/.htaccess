@@ -1,3 +1,37 @@
+# ---- Production hardening (all blocks are no-ops if the Apache module is unavailable) ----
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirect plain HTTP to HTTPS (skipped on localhost and when a proxy already terminates TLS)
+    RewriteCond %{HTTPS} off
+    RewriteCond %{HTTP:X-Forwarded-Proto} !https
+    RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:\d+)?$ [NC]
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # Never serve hidden files such as .env or .git
+    RewriteRule (^|/)\.(?!well-known/) - [F,L]
+</IfModule>
+
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    # Vite output is content-hashed, so it can be cached for a year
+    <FilesMatch "\.(css|js)$">
+        ExpiresDefault "access plus 1 year"
+        <IfModule mod_headers.c>
+            Header set Cache-Control "public, max-age=31536000, immutable"
+        </IfModule>
+    </FilesMatch>
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/webp "access plus 1 month"
+    ExpiresByType image/x-icon "access plus 1 month"
+</IfModule>
+
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes

@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Our Services - Jueli Engineering Ltd')
+@section('meta_description', 'Mechanical services, steel fabrication, HVAC, plumbing, welding and lift services from Jueli Engineering Ltd in Nairobi.')
 
 @push('styles')
     <style>

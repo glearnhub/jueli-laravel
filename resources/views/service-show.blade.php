@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('title', $service->title.' - Jueli Engineering Ltd')
+@section('meta_description', Str::limit($service->description, 155))
+@section('meta_image', $service->image_url ?: asset('img/logo.png'))
 
 @push('styles')
     <style>
@@ -140,7 +142,7 @@
 
                     <div class="service-actions mt-4">
                         <a href="{{ route('contact') }}" class="btn"><i class="fas fa-envelope me-1"></i> Request a Quote</a>
-                        <a href="https://wa.me/254704553400?text={{ rawurlencode("Hello JUELI ENGINEERING, I'd like to enquire about your {$service->title} service.") }}"
+                        <a href="{{ $site->whatsappUrl("Hello JUELI ENGINEERING, I'd like to enquire about your {$service->title} service.") }}"
                             class="btn btn-whatsapp" target="_blank" rel="noopener"><i class="fab fa-whatsapp me-1"></i> Chat on WhatsApp</a>
                     </div>
                 </div>

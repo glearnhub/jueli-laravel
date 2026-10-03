@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Jueli Engineering Ltd')
+@section('meta_description', 'Jueli Engineering Ltd offers mechanical engineering, steel fabrication, HVAC, plumbing and welding services, plus tools and hardware supplies, in Nairobi, Kenya.')
 
 @section('content')
     <h1 class="visually-hidden">Jueli Engineering Ltd - engineering products and services in Nairobi, Kenya</h1>
@@ -41,7 +42,7 @@
                                 aria-label="Browse {{ $category->category_name }} products">
                                 <div class="category-img">
                                     <img src="{{ $category->picture ? asset('storage/' . $category->picture) : asset('img/favicon.png') }}"
-                                        alt="{{ $category->category_name }}">
+                                        alt="{{ $category->category_name }}" loading="lazy">
                                 </div>
                                 <h3>{{ $category->category_name }}</h3>
                             </a>

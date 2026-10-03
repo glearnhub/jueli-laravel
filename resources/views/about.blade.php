@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'About Us - Jueli Engineering Ltd')
+@section('meta_description', 'Meet Jueli Engineering Ltd, a Nairobi-based engineering company delivering efficient, reliable mechanical, fabrication and HVAC solutions.')
 
 @section('content')
     @include('partials.page-hero', ['hero' => $hero, 'fallbackTitle' => 'About Us'])

@@ -99,14 +99,14 @@
             {
                 "product_name": "Pressure Spray Pump Premier",
                 "product_description": "Pressure Spray Pump 1L Premier",
-                "product_picture": "products/3510.png",
+                "product_picture": "products/3510.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pressure Sprayer Premier",
                 "product_description": "Pressure Sprayer 2L Premier",
-                "product_picture": "products/3511.png",
+                "product_picture": "products/3511.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -162,7 +162,7 @@
             {
                 "product_name": "Sugarcane Knife",
                 "product_description": "Sugar Cane Knife",
-                "product_picture": "products/3821.png",
+                "product_picture": "products/3821.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -176,14 +176,14 @@
             {
                 "product_name": "Leaf Rake Adjustable Metal",
                 "product_description": "Leaf Rake Adjustable Metal 22T #9718",
-                "product_picture": "products/4292.png",
+                "product_picture": "products/4292.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sprinkler Plastic Impact",
                 "product_description": "Sprinkler Black + Yellow Plastic Impact # 9696",
-                "product_picture": "products/4293.png",
+                "product_picture": "products/4293.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -197,21 +197,21 @@
             {
                 "product_name": "Hose Reel",
                 "product_description": "Hose Reel 45M",
-                "product_picture": "products/4311.png",
+                "product_picture": "products/4311.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hose Trolley",
                 "product_description": "Hose Trolley 45M",
-                "product_picture": "products/4312.png",
+                "product_picture": "products/4312.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sprinkler Zinc Alloy Impact",
                 "product_description": "Sprinkler Zinc Alloy Impact #9704",
-                "product_picture": "products/4313.png",
+                "product_picture": "products/4313.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -220,160 +220,160 @@
     {
         "category_name": "Anant Tools",
         "description": null,
-        "picture": "categories/2281.png",
+        "picture": "categories/2281.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Anant Am 140 Corner Clamp 2 Inch",
                 "product_description": "Anant Am 140 Corner Clamp 2\" Quick Grip Type",
-                "product_picture": "products/2281.png",
+                "product_picture": "products/2281.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Bench Rabbet Plane No A10",
                 "product_description": "Anant Bench Rabbet Plane No. A10",
-                "product_picture": "products/2282.png",
+                "product_picture": "products/2282.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Bevelled Edge Chisels Set",
                 "product_description": "Anant Bevelled Edge Chisels Set (12,18,26,32&38mm)",
-                "product_picture": "products/2284.png",
+                "product_picture": "products/2284.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Bull Nose Rabbet Plane",
                 "product_description": "Anant Bull Nose Rabbet Plane No. A77",
-                "product_picture": "products/2286.png",
+                "product_picture": "products/2286.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Claw Hammer Fibre Handle",
                 "product_description": "Anant Claw Hammer Fibre Handle 455G",
-                "product_picture": "products/2288.png",
+                "product_picture": "products/2288.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Fore Planes No A6",
                 "product_description": "Anant Fore Planes No. A6",
-                "product_picture": "products/2292.png",
+                "product_picture": "products/2292.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Jack Planes No A5",
                 "product_description": "Anant Jack Planes No. A5",
-                "product_picture": "products/2293.png",
+                "product_picture": "products/2293.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Wood Turning Tools Set",
                 "product_description": "Anant Wood Turning Tools Set Of 5PCS",
-                "product_picture": "products/2299.png",
+                "product_picture": "products/2299.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plough Plane Anant",
                 "product_description": "Anant Plough Planes A52",
-                "product_picture": "products/3463.png",
+                "product_picture": "products/3463.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Bench Vice",
                 "product_description": "Anant Bench Vice 6\"",
-                "product_picture": "products/2283.png",
+                "product_picture": "products/2283.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Block Plane",
                 "product_description": "Anant Block Plane A102",
-                "product_picture": "products/2285.png",
+                "product_picture": "products/2285.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Chisel",
                 "product_description": "Anant Chisel 50MM",
-                "product_picture": "products/2287.png",
+                "product_picture": "products/2287.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Claw Hammer Steel Shaft",
                 "product_description": "Anant Claw Hammer Steel Shaft With Soft Grip 455G",
-                "product_picture": "products/2289.png",
+                "product_picture": "products/2289.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Cut Iron",
                 "product_description": "Anant Cut Iron 60MM / Planner Blade NO.6",
-                "product_picture": "products/2290.png",
+                "product_picture": "products/2290.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Duplex Plane",
                 "product_description": "Anant Duplex Rabbet & Fillister Planes A78",
-                "product_picture": "products/2291.png",
+                "product_picture": "products/2291.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Mortise Chisels",
                 "product_description": "Anant Mortise Chisels 12MM",
-                "product_picture": "products/2294.png",
+                "product_picture": "products/2294.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Ripping Hammer",
                 "product_description": "Anant Ripping Hammer With Steel Shaft And Soft Grip 455G",
-                "product_picture": "products/2295.png",
+                "product_picture": "products/2295.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Smooth Planes No",
                 "product_description": "Anant Smooth Planes No. A4",
-                "product_picture": "products/2296.png",
+                "product_picture": "products/2296.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Spokeshaves 0151",
                 "product_description": "Anant Spokeshave 0151R Round Face",
-                "product_picture": "products/2297.png",
+                "product_picture": "products/2297.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant T Bar",
                 "product_description": "Anant T-Bar 6\"",
-                "product_picture": "products/2298.png",
+                "product_picture": "products/2298.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Wood Working Vice",
                 "product_description": "Anant Wood Working Vice 53AED",
-                "product_picture": "products/2300.png",
+                "product_picture": "products/2300.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Anant Wrecking Bar",
                 "product_description": "Anant Wrecking Bar 36\"",
-                "product_picture": "products/2301.png",
+                "product_picture": "products/2301.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -395,35 +395,35 @@
             {
                 "product_name": "Carburetor Cleaner",
                 "product_description": "Carburetor Cleaner 400ML Asmaco",
-                "product_picture": "products/2405.png",
+                "product_picture": "products/2405.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Dashboard Polish",
                 "product_description": "Dashboard Polish 400ML Asmaco",
-                "product_picture": "products/2526.png",
+                "product_picture": "products/2526.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Jerrycan 20LTRS",
                 "product_description": null,
-                "product_picture": "products/3182.png",
+                "product_picture": "products/3182.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Jerrycan 20LTRS L D",
                 "product_description": "Jerrycan 20LTRS L/D",
-                "product_picture": "products/3183.png",
+                "product_picture": "products/3183.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Lithium Grease",
                 "product_description": "Lithium Grease Asmaco",
-                "product_picture": "products/3235.png",
+                "product_picture": "products/3235.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -437,14 +437,14 @@
             {
                 "product_name": "Rtv Gasket Maker",
                 "product_description": "Rtv Gasket Maker 85G Asmaco",
-                "product_picture": "products/3608.png",
+                "product_picture": "products/3608.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Zinc Spray Cold Galvanizing Spr",
                 "product_description": "Zinc Spray Cold Galvanizing Spray 400ML Asmaco",
-                "product_picture": "products/4090.png",
+                "product_picture": "products/4090.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -487,35 +487,35 @@
             {
                 "product_name": "Element For 4T Brazil",
                 "product_description": "Element For 4 Temperature Brazil",
-                "product_picture": "products/2811.png",
+                "product_picture": "products/2811.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Element For 4T Schneeberg",
                 "product_description": "Element For 4 Temperature Schneeberg",
-                "product_picture": "products/2812.png",
+                "product_picture": "products/2812.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Enerducha 3TEMP",
                 "product_description": null,
-                "product_picture": "products/2856.png",
+                "product_picture": "products/2856.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Enerducha 3TEMP With Free Element",
                 "product_description": "Enerducha 3 Temp + Free Element",
-                "product_picture": "products/2857.png",
+                "product_picture": "products/2857.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Enershower 4TEMP",
                 "product_description": null,
-                "product_picture": "products/2859.png",
+                "product_picture": "products/2859.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -536,7 +536,7 @@
             {
                 "product_name": "Instant Shower Arm Plastic",
                 "product_description": "Instant Shower Arm Plastic White Schneeberg",
-                "product_picture": "products/3156.png",
+                "product_picture": "products/3156.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -564,28 +564,28 @@
             {
                 "product_name": "Tissue Dispenser BK29 Scneeberg",
                 "product_description": "Tissue Dispenser Stainless Steel BK29 Schneeberg",
-                "product_picture": "products/3862.png",
+                "product_picture": "products/3862.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tissue Holder Stick Only",
                 "product_description": "Tissue Holder Plastic Stick Only",
-                "product_picture": "products/3865.png",
+                "product_picture": "products/3865.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Toilet Bidet Screw M6X85MM",
                 "product_description": "Toilet Bidet Screw M6X85MM Kromm",
-                "product_picture": "products/3867.png",
+                "product_picture": "products/3867.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Toilet Brush Turkhead B8",
                 "product_description": "Toilet Brush Plastic Turkhead - B8",
-                "product_picture": "products/3868.png",
+                "product_picture": "products/3868.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -599,70 +599,70 @@
             {
                 "product_name": "Towel Rail Bracket Double 9940",
                 "product_description": "Towel Rail Bracket Double Rod 18\" - Schneeberg",
-                "product_picture": "products/3877.png",
+                "product_picture": "products/3877.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Towel Rail Round Bracket",
                 "product_description": "Towel Rail Round Bracket Schneeberg",
-                "product_picture": "products/3879.png",
+                "product_picture": "products/3879.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Towel Rail With Hooks",
                 "product_description": "Towel Rail With Hooks Schneeberg",
-                "product_picture": "products/3880.png",
+                "product_picture": "products/3880.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Towel Shelf 60X23CM",
                 "product_description": "Towel Shelf 60X23CM Schneeberg",
-                "product_picture": "products/3882.png",
+                "product_picture": "products/3882.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Towel Ring Schneeberg",
                 "product_description": "Towel Ring Schneeberg 21X16CM",
-                "product_picture": "products/4248.png",
+                "product_picture": "products/4248.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tissue Holder 18X10 9724",
                 "product_description": "Tissue Holder 18X10CM With Mobile Stand",
-                "product_picture": "products/4249.png",
+                "product_picture": "products/4249.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Shelf Support Zinc Alloy Glass",
                 "product_description": "Shelf Support Zinc Alloy Glass Mounting Bracket With Screws (Screws In Loose Packing) 3#",
-                "product_picture": "products/4252.png",
+                "product_picture": "products/4252.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Drain Cleaner Pump Plastic Plunger",
                 "product_description": "Drain Cleaner Pump (Plastic Plunger) 18X11CM",
-                "product_picture": "products/4345.png",
+                "product_picture": "products/4345.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ss Floor Drain 3 In 1 4X4",
                 "product_description": null,
-                "product_picture": "products/5122.png",
+                "product_picture": "products/5122.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ss Floor Drain 3 In 1 6X6",
                 "product_description": null,
-                "product_picture": "products/5123.png",
+                "product_picture": "products/5123.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -691,7 +691,7 @@
             {
                 "product_name": "Marine Ply Kenmate",
                 "product_description": "Marine Ply 18MMX1220MMX2440MM (Kenmate)",
-                "product_picture": "products/6883.png",
+                "product_picture": "products/6883.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -712,7 +712,7 @@
             {
                 "product_name": "Gypsum Board 9MM",
                 "product_description": "Gypsum Board 9MM Swan",
-                "product_picture": "products/3049.png",
+                "product_picture": "products/3049.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -733,14 +733,14 @@
             {
                 "product_name": "Mdf Board 17MM",
                 "product_description": "Mdf Board 17MM White",
-                "product_picture": "products/3289.png",
+                "product_picture": "products/3289.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Particle Board 18MM",
                 "product_description": "Particle Board 18MM Coimbra",
-                "product_picture": "products/3392.png",
+                "product_picture": "products/3392.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -754,7 +754,7 @@
             {
                 "product_name": "Pvc Lipping",
                 "product_description": "Pvc Lipping Black 22MMX0.4MMX100METRES",
-                "product_picture": "products/3542.png",
+                "product_picture": "products/3542.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -832,14 +832,14 @@
             {
                 "product_name": "Tower Bolt 4 Inch O Type Heavy",
                 "product_description": "Tower Bolt 4\" O-Type Heavy",
-                "product_picture": "products/3886.png",
+                "product_picture": "products/3886.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tower Bolt Century Type India",
                 "product_description": "Tower Bolt Century Type (Heavy Duty) India",
-                "product_picture": "products/3893.png",
+                "product_picture": "products/3893.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -860,14 +860,14 @@
             {
                 "product_name": "Wedge Anchor 12PCS Per Pkt",
                 "product_description": "Wedge Anchor M20X160",
-                "product_picture": "products/4004.png",
+                "product_picture": "products/4004.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Wedge Anchor 18PCS Per Pkt",
                 "product_description": "Wedge Anchor M20X160",
-                "product_picture": "products/4005.png",
+                "product_picture": "products/4005.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -888,7 +888,7 @@
             {
                 "product_name": "Wedge Anchor 8PCS Per Pkt",
                 "product_description": "Wedge Anchor M24X200",
-                "product_picture": "products/4008.png",
+                "product_picture": "products/4008.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -944,35 +944,35 @@
             {
                 "product_name": "Wedge Anchor 160PCS Per Pkt",
                 "product_description": "Wedge Anchor M8X60",
-                "product_picture": "products/4016.png",
+                "product_picture": "products/4016.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Precision Screwdriver Rossel",
                 "product_description": "Precision Screwdriver 6PC/SET 8528 Rossel",
-                "product_picture": "products/4381.png",
+                "product_picture": "products/4381.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tower Bolt Brass Aristo 6",
                 "product_description": null,
-                "product_picture": "products/8555.png",
+                "product_picture": "products/8555.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tower Bolt Brass Aristo 4",
                 "product_description": null,
-                "product_picture": "products/8556.png",
+                "product_picture": "products/8556.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Wedge Anchor M20X180",
                 "product_description": null,
-                "product_picture": "products/9188.png",
+                "product_picture": "products/9188.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -981,55 +981,55 @@
     {
         "category_name": "Brushes And Rollers",
         "description": null,
-        "picture": "categories/3379.png",
+        "picture": "categories/3379.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Paint Roller Stevenson",
                 "product_description": "Paint Roller Plastic Handle Stevenson 10\"",
-                "product_picture": "products/3379.png",
+                "product_picture": "products/3379.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller Tray Heavy Duty",
                 "product_description": "Paint Roller Tray Heavy Duty Blue",
-                "product_picture": "products/3380.png",
+                "product_picture": "products/3380.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller Plastic Kensplastic",
                 "product_description": null,
-                "product_picture": "products/5396.png",
+                "product_picture": "products/5396.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller Plastic 4 Orange",
                 "product_description": "Paint Roller Plastic 4\" Orange Handle",
-                "product_picture": "products/8579.png",
+                "product_picture": "products/8579.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller Plastic 4 Green",
                 "product_description": null,
-                "product_picture": "products/8580.png",
+                "product_picture": "products/8580.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller Plastic 4 Krickwood",
                 "product_description": null,
-                "product_picture": "products/8801.png",
+                "product_picture": "products/8801.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Paint Roller 4 Handle With Refill",
                 "product_description": null,
-                "product_picture": "products/8802.png",
+                "product_picture": "products/8802.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1050,7 +1050,7 @@
             {
                 "product_name": "Paint Brush Kungfu",
                 "product_description": "Paint Brush Kungfu Varnish Handle 6\"",
-                "product_picture": "products/3374.png",
+                "product_picture": "products/3374.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1064,7 +1064,7 @@
             {
                 "product_name": "Paint Brush Red Tip 710",
                 "product_description": "Paint Brush Red Tip 710 6\"",
-                "product_picture": "products/3376.png",
+                "product_picture": "products/3376.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1078,7 +1078,7 @@
             {
                 "product_name": "Paint Roller",
                 "product_description": "Paint Roller Plastic Handle 9\"",
-                "product_picture": "products/3378.png",
+                "product_picture": "products/3378.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1092,7 +1092,7 @@
             {
                 "product_name": "Soft Pattern Roller",
                 "product_description": "Soft Pattern Roller (Angle Frame With Roller) 6\" Code No 9763",
-                "product_picture": "products/4264.png",
+                "product_picture": "products/4264.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -1135,91 +1135,91 @@
             {
                 "product_name": "Castor Wheel With Brake Nylon 2 Inch",
                 "product_description": "Castor Twin Wheel + Brake Nylon 2\" (50MM)",
-                "product_picture": "products/2421.png",
+                "product_picture": "products/2421.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Carpet Caster",
                 "product_description": "Carpet Caster 2-1/2\" - 65MM Silver #9759",
-                "product_picture": "products/4254.png",
+                "product_picture": "products/4254.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Orange Ball Caster Tpr With PP2",
                 "product_description": "Orange Ball Caster Tpr With Pp Core Plate Swivel Type Box Packing #9647 2\"",
-                "product_picture": "products/4285.png",
+                "product_picture": "products/4285.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Red Pu Swivel 4",
                 "product_description": null,
-                "product_picture": "products/5113.png",
+                "product_picture": "products/5113.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Red Pu Swivel 5",
                 "product_description": null,
-                "product_picture": "products/5114.png",
+                "product_picture": "products/5114.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Red Pu Swivel 6",
                 "product_description": null,
-                "product_picture": "products/5115.png",
+                "product_picture": "products/5115.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Furniture Caster Side 9811 2",
                 "product_description": null,
-                "product_picture": "products/5116.png",
+                "product_picture": "products/5116.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Rubber Swivel Caster Plate 9630",
                 "product_description": null,
-                "product_picture": "products/5117.png",
+                "product_picture": "products/5117.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Nylon Caster Twin Swivel 9812 2",
                 "product_description": null,
-                "product_picture": "products/5118.png",
+                "product_picture": "products/5118.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Carpet Caster 2P5 Inch Golden",
                 "product_description": null,
-                "product_picture": "products/5125.png",
+                "product_picture": "products/5125.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Orange Pvc Swivel Caster 9635 2 Inch",
                 "product_description": "Orange Pvc Swivel Caster Plate Type Galvanized #9635 2\"",
-                "product_picture": "products/9105.png",
+                "product_picture": "products/9105.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Red Pu Swivel 8",
                 "product_description": "Red Pu Cast Iron Caster Plate Swivel Type #9810 8\"",
-                "product_picture": "products/9104.png",
+                "product_picture": "products/9104.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Rubber Swivel Caster Plate 3",
                 "product_description": "Black Rubber Swivel Caster Plate Type #9630 3\"",
-                "product_picture": "products/9103.png",
+                "product_picture": "products/9103.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1240,77 +1240,77 @@
             {
                 "product_name": "Rubber Caster Plate Fix Type 9631",
                 "product_description": "Black Rubber Caster Plate Fix Type #9631 3\"",
-                "product_picture": "products/4270.png",
+                "product_picture": "products/4270.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Rubber Swivel Caster Thread 9632",
                 "product_description": "Black Rubber Swivel Caster Thread Type #9632 3\"",
-                "product_picture": "products/4271.png",
+                "product_picture": "products/4271.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Swivel Caster Thread Top 9633",
                 "product_description": "Black Rubber Swivel Caster Thread Top Brake Type #9633 3\"",
-                "product_picture": "products/4272.png",
+                "product_picture": "products/4272.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Red Pu Cast Iron 9634",
                 "product_description": "Red Pu Cast Iron Caster Plate Top Brake Type #9634 4\"",
-                "product_picture": "products/4273.png",
+                "product_picture": "products/4273.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Orange Pvc Castor Plate Gal 9636",
                 "product_description": "Orange Pvc Swivel Caster Plate Type-Galvanized #9636 2\"",
-                "product_picture": "products/4275.png",
+                "product_picture": "products/4275.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Castor Wheel Orange Pvc 9638",
                 "product_description": "Orange Pvc Swivel Caster Plate Top Brake Type-Galvanized #9638 2\"",
-                "product_picture": "products/4276.png",
+                "product_picture": "products/4276.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Orange Pvc Swivel Plate Black 9639",
                 "product_description": "Orange Pvc Swivel Caster Plate Type - Black #9639 3\"",
-                "product_picture": "products/4277.png",
+                "product_picture": "products/4277.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Orange Swivel Caster Top Black 9640",
                 "product_description": "Orange Pvc Swivel Caster Plate Top Brake Type - Black #9640 3\"",
-                "product_picture": "products/4278.png",
+                "product_picture": "products/4278.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Pp Caster Plate Brake 9641",
                 "product_description": "White Pp Caster Plate Brake Type #9641 3\"",
-                "product_picture": "products/4279.png",
+                "product_picture": "products/4279.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Pp Caster Plate Swivel 9642",
                 "product_description": "White Pp Caster Plate Swivel Type #9642 3\"",
-                "product_picture": "products/4280.png",
+                "product_picture": "products/4280.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Pp Caster Plate Fix 9643",
                 "product_description": "White Pp Caster Plate Fix Type #9643 3\"",
-                "product_picture": "products/4281.png",
+                "product_picture": "products/4281.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -1346,7 +1346,7 @@
             {
                 "product_name": "Mop Bucket Plastic",
                 "product_description": "Mop Bucket Plastic Premier",
-                "product_picture": "products/3319.png",
+                "product_picture": "products/3319.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1367,28 +1367,28 @@
             {
                 "product_name": "Polishing Pad 22PCS Set",
                 "product_description": "Polishing Pad 22PCS/SET Foam/Sponge 7\"",
-                "product_picture": "products/4321.png",
+                "product_picture": "products/4321.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Polishing Pad 13PCS Set",
                 "product_description": "Polishing Pad 13PCS/SET Foam/Sponge 6\"",
-                "product_picture": "products/4322.png",
+                "product_picture": "products/4322.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Drain Rod",
                 "product_description": "Drain Rod #9713",
-                "product_picture": "products/4327.png",
+                "product_picture": "products/4327.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Broom F2",
                 "product_description": "Broom F2 Wooden",
-                "product_picture": "products/2389.png",
+                "product_picture": "products/2389.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1402,14 +1402,14 @@
             {
                 "product_name": "Polishing Sanding Pad 9778",
                 "product_description": "Polishing Sanding Pad Velcro Without Screw Connector Rossel 9778 7\"",
-                "product_picture": "products/4360.png",
+                "product_picture": "products/4360.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Vacuum Cleaner Btali",
                 "product_description": null,
-                "product_picture": "products/4993.png",
+                "product_picture": "products/4993.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -1438,7 +1438,7 @@
             {
                 "product_name": "Bed Clamps 90MM",
                 "product_description": "Bed Clamps 90MM Schneeberg",
-                "product_picture": "products/2348.png",
+                "product_picture": "products/2348.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1466,7 +1466,7 @@
             {
                 "product_name": "Corner Bead",
                 "product_description": "Gypsum Corner Bead 25X25MM",
-                "product_picture": "products/2482.png",
+                "product_picture": "products/2482.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1480,7 +1480,7 @@
             {
                 "product_name": "Double Sided Tape Rossel",
                 "product_description": "Double Sided Tape Rossel 18MMX2.5MMX3METRES",
-                "product_picture": "products/2626.png",
+                "product_picture": "products/2626.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1494,7 +1494,7 @@
             {
                 "product_name": "Drywall Sander 1050W",
                 "product_description": "Drywall Sander 1050W (TWS10501)",
-                "product_picture": "products/2644.png",
+                "product_picture": "products/2644.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1515,7 +1515,7 @@
             {
                 "product_name": "L Trim Silver Aluminium",
                 "product_description": null,
-                "product_picture": "products/3221.png",
+                "product_picture": "products/3221.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1529,28 +1529,28 @@
             {
                 "product_name": "Marking Guage Wooden",
                 "product_description": "Marking Guage Wooden Width 2CM Length 25CM",
-                "product_picture": "products/3279.png",
+                "product_picture": "products/3279.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mason Square Black",
                 "product_description": "Mason Square Black 24X16\"",
-                "product_picture": "products/3285.png",
+                "product_picture": "products/3285.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mason Square Delta M D",
                 "product_description": "Mason Square Delta Shiny (New) Medium",
-                "product_picture": "products/3286.png",
+                "product_picture": "products/3286.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mason Square Pecker H D",
                 "product_description": "Mason Square Pecker Heavy Polished",
-                "product_picture": "products/3287.png",
+                "product_picture": "products/3287.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1578,14 +1578,14 @@
             {
                 "product_name": "Plastering Machine Krickwood",
                 "product_description": "Plastering Machine For Rough Cast Krickwood",
-                "product_picture": "products/3444.png",
+                "product_picture": "products/3444.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plastering Machine Proson",
                 "product_description": "Plastering Machine For Rough Cast Proson",
-                "product_picture": "products/3445.png",
+                "product_picture": "products/3445.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1613,21 +1613,21 @@
             {
                 "product_name": "Plastic Vent",
                 "product_description": null,
-                "product_picture": "products/3454.png",
+                "product_picture": "products/3454.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plumb Bob China Pecker",
                 "product_description": "Plumb Bob China Proson",
-                "product_picture": "products/3465.png",
+                "product_picture": "products/3465.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plumb Bob India",
                 "product_description": null,
-                "product_picture": "products/3466.png",
+                "product_picture": "products/3466.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -1636,13 +1636,13 @@
     {
         "category_name": "Cutting And Grinding",
         "description": null,
-        "picture": "categories/2446.png",
+        "picture": "categories/2446.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Circular Saw TCT12 X 25P4 X 120T Jk",
                 "product_description": "Circular Saw J.k 12X25.4X120T Tct For Wc",
-                "product_picture": "products/2446.png",
+                "product_picture": "products/2446.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1670,7 +1670,7 @@
             {
                 "product_name": "Diamond Cutting Blade 32 Inch Scnbr",
                 "product_description": "Diamond Cutting Blade 32\"X15MM Schneeberg",
-                "product_picture": "products/2597.png",
+                "product_picture": "products/2597.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1684,7 +1684,7 @@
             {
                 "product_name": "Robtec Inox Metal Grinding",
                 "product_description": "Robtec Inox Metal Grinding Disc 7\"",
-                "product_picture": "products/3592.png",
+                "product_picture": "products/3592.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1698,70 +1698,70 @@
             {
                 "product_name": "American Type Fuel Jerry Can",
                 "product_description": "American Type Metal Fuel Jerry Can Without Spout 20L Rossel 9742",
-                "product_picture": "products/4363.png",
+                "product_picture": "products/4363.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Armature For Grinder 9",
                 "product_description": "Armature For Grinder 9\" 22093-SP-28",
-                "product_picture": "products/4464.png",
+                "product_picture": "products/4464.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Robtec Inox Metal Cutting",
                 "product_description": null,
-                "product_picture": "products/5000.png",
+                "product_picture": "products/5000.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Circular Saw Blade Atb",
                 "product_description": null,
-                "product_picture": "products/5003.png",
+                "product_picture": "products/5003.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Robtec Inox Metal Cutting 7 Inch Green",
                 "product_description": null,
-                "product_picture": "products/5423.png",
+                "product_picture": "products/5423.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Grinding Disc Simbagrind 9",
                 "product_description": null,
-                "product_picture": "products/8581.png",
+                "product_picture": "products/8581.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Grinding Disc Simbagrind 4P5",
                 "product_description": null,
-                "product_picture": "products/8582.png",
+                "product_picture": "products/8582.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Cutting Disc 4P5 Simbagrind",
                 "product_description": null,
-                "product_picture": "products/8668.png",
+                "product_picture": "products/8668.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ceramic Abrasive Wheel",
                 "product_description": "Ceramic Abrasive Wheel With 1SET(4PCS) Adaptor Grade Gc Green Color 8\" - GC60",
-                "product_picture": "products/2430.png",
+                "product_picture": "products/2430.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Circular Saw Tct Wc",
                 "product_description": "Jk 14X25.4X120T Tct Circular Saw For Al Cut",
-                "product_picture": "products/2442.png",
+                "product_picture": "products/2442.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1782,7 +1782,7 @@
             {
                 "product_name": "Cutting Disk Jk",
                 "product_description": "Jk Cutting Disk 9\"",
-                "product_picture": "products/2521.png",
+                "product_picture": "products/2521.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1867,14 +1867,14 @@
             {
                 "product_name": "Curtain Rail Aluminium Only",
                 "product_description": null,
-                "product_picture": "products/2495.png",
+                "product_picture": "products/2495.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Curtain Rail Bracket",
                 "product_description": null,
-                "product_picture": "products/2496.png",
+                "product_picture": "products/2496.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -1888,14 +1888,14 @@
             {
                 "product_name": "Curtain Rail Fitting Chrome",
                 "product_description": null,
-                "product_picture": "products/2498.png",
+                "product_picture": "products/2498.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Curtain Rail Runners Chrome",
                 "product_description": "Curtain Rail Runners (Chrome)",
-                "product_picture": "products/2499.png",
+                "product_picture": "products/2499.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2134,14 +2134,14 @@
             {
                 "product_name": "Masonary Drill Bit Set DR015",
                 "product_description": null,
-                "product_picture": "products/3288.png",
+                "product_picture": "products/3288.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Metal Drill Bit Set DR024 Yellow Box",
                 "product_description": null,
-                "product_picture": "products/3309.png",
+                "product_picture": "products/3309.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2155,105 +2155,105 @@
             {
                 "product_name": "Bi Metal Hole Saw Set",
                 "product_description": "Bi-Metal Holesaw Set For Plumber 19MM-57MM Rossel 8536",
-                "product_picture": "products/4333.png",
+                "product_picture": "products/4333.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Glass Drill Bit Set 9715",
                 "product_description": "Glass Drill Bit Set Rossel 9715",
-                "product_picture": "products/4350.png",
+                "product_picture": "products/4350.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Masonry Drill Bit Set 9717",
                 "product_description": "Masonry Drill Bit Set Rossel 9717",
-                "product_picture": "products/4351.png",
+                "product_picture": "products/4351.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hss Drill Bit 13PCS Set",
                 "product_description": "Hss Drill Bit Set 13PCS/SET Rossel",
-                "product_picture": "products/4352.png",
+                "product_picture": "products/4352.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hole Saw Set For Woodworking",
                 "product_description": "Hole Saw Set For Woodworking Neutral Packing 19MM-64MM Rossel 9756",
-                "product_picture": "products/4353.png",
+                "product_picture": "products/4353.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tool Bit Kt O 1S4X6 Inches Jk",
                 "product_description": null,
-                "product_picture": "products/8591.png",
+                "product_picture": "products/8591.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Tool Bit Kt O 5S16X6 Inches Jk",
                 "product_description": null,
-                "product_picture": "products/8592.png",
+                "product_picture": "products/8592.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Magnetic Nut Setter 10MM PR555",
                 "product_description": "Magnetic Nut Setter 10MM For Self Drilling Screws Proson PR555",
-                "product_picture": "products/8969.png",
+                "product_picture": "products/8969.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 32MM",
                 "product_description": null,
-                "product_picture": "products/9196.png",
+                "product_picture": "products/9196.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 25MM",
                 "product_description": null,
-                "product_picture": "products/9195.png",
+                "product_picture": "products/9195.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 22MM",
                 "product_description": null,
-                "product_picture": "products/9194.png",
+                "product_picture": "products/9194.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 19MM",
                 "product_description": null,
-                "product_picture": "products/9193.png",
+                "product_picture": "products/9193.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 12MM",
                 "product_description": null,
-                "product_picture": "products/9192.png",
+                "product_picture": "products/9192.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flat Wood Drill Bit 10MM",
                 "product_description": null,
-                "product_picture": "products/9191.png",
+                "product_picture": "products/9191.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Auger Bits For Wood",
                 "product_description": "Auger Bits For Wood 7/8\" Schneeberg Brand",
-                "product_picture": "products/2316.png",
+                "product_picture": "products/2316.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2282,7 +2282,7 @@
             {
                 "product_name": "Dayliff Avs 13",
                 "product_description": null,
-                "product_picture": "products/2532.png",
+                "product_picture": "products/2532.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2303,63 +2303,63 @@
             {
                 "product_name": "Grommet 50MM 9950",
                 "product_description": "Grommet 50MM For Office Table 20PCS/BAG",
-                "product_picture": "products/3044.png",
+                "product_picture": "products/3044.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Insulating Tape Black Asmaco",
                 "product_description": "Insulation Tape 10 Yards Asmaco Black",
-                "product_picture": "products/3158.png",
+                "product_picture": "products/3158.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Insulation Tape Mr Build Colour",
                 "product_description": "Insulation Tape 10 Yards Mr Build (Red/Black/Green/Yellow/Blue/Yellow Green Mix)",
-                "product_picture": "products/3159.png",
+                "product_picture": "products/3159.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Soldering Iron 60 Watts 220V And 240V",
                 "product_description": "Soldering Iron 60 Watts 220V/240V Rossel",
-                "product_picture": "products/3756.png",
+                "product_picture": "products/3756.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Soldering Wire 1P6 X 100G",
                 "product_description": "Soldering Wire 1.6 X 100GRAMS Rossel",
-                "product_picture": "products/3757.png",
+                "product_picture": "products/3757.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Welding Earth Clamp 800A",
                 "product_description": "Welding Earth Clamp 800A Proson",
-                "product_picture": "products/9095.png",
+                "product_picture": "products/9095.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Welding Earth Clamp 500A",
                 "product_description": "Welding Earth Clamp 500A Proson",
-                "product_picture": "products/9094.png",
+                "product_picture": "products/9094.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Copper Clad Booster 9901 600A",
                 "product_description": null,
-                "product_picture": "products/9224.png",
+                "product_picture": "products/9224.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Soldering Wire 1 X 100G",
                 "product_description": null,
-                "product_picture": "products/9197.png",
+                "product_picture": "products/9197.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2612,7 +2612,7 @@
             {
                 "product_name": "EASG04001 Air Spray Gun",
                 "product_description": "Emtop Air Spray Gun 400CC (EASG04001)",
-                "product_picture": "products/2667.png",
+                "product_picture": "products/2667.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2628,27 +2628,27 @@
     {
         "category_name": "Files",
         "description": null,
-        "picture": "categories/2364.png",
+        "picture": "categories/2364.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Body File For Cars Jk",
                 "product_description": "Jk Body File For Cars",
-                "product_picture": "products/2364.png",
+                "product_picture": "products/2364.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Body File Holder Rossel Flexible",
                 "product_description": "Body File Holder \"Rossel\" Flexible",
-                "product_picture": "products/2365.png",
+                "product_picture": "products/2365.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Jk File Box Packing",
                 "product_description": "Jk File 6\" (Box Packing)",
-                "product_picture": "products/3194.png",
+                "product_picture": "products/3194.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2676,7 +2676,7 @@
             {
                 "product_name": "Black File With Fiber Handle",
                 "product_description": "Black File With Fiber Handle 8\" Tse Natraj",
-                "product_picture": "products/4392.png",
+                "product_picture": "products/4392.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2746,14 +2746,14 @@
             {
                 "product_name": "Jk Flat File Bastard",
                 "product_description": "Jk Flat File Bastard 8\" (200MM) (Rough)",
-                "product_picture": "products/3201.png",
+                "product_picture": "products/3201.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Jk Flat File Mill Blunt Tre",
                 "product_description": "Jk Flat File Mill Blunt Tre 8\" (200MM)",
-                "product_picture": "products/3202.png",
+                "product_picture": "products/3202.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2767,7 +2767,7 @@
             {
                 "product_name": "Jk Half Round Wood File",
                 "product_description": "Jk Half Round Wood Rasp File 8\" Cabinet (200MM)",
-                "product_picture": "products/3204.png",
+                "product_picture": "products/3204.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2810,7 +2810,7 @@
             {
                 "product_name": "Chest Handle Chrome Steelman",
                 "product_description": null,
-                "product_picture": "products/2436.png",
+                "product_picture": "products/2436.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2824,7 +2824,7 @@
             {
                 "product_name": "Flanges For Mixers Cartoon",
                 "product_description": "Flanges For Mixers,Taps,Angle Cock, Etc Cartoon",
-                "product_picture": "products/2975.png",
+                "product_picture": "products/2975.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2852,14 +2852,14 @@
             {
                 "product_name": "Furniture Legs FL445",
                 "product_description": "Furniture Legs FL445 2TONE",
-                "product_picture": "products/3016.png",
+                "product_picture": "products/3016.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Lamp Chain Fluorescent",
                 "product_description": "Lamp Chain Fluorescent 100M/ROLL - 5.0X12.5",
-                "product_picture": "products/3232.png",
+                "product_picture": "products/3232.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2880,7 +2880,7 @@
             {
                 "product_name": "Magnetic Door Catch For Doors",
                 "product_description": null,
-                "product_picture": "products/3263.png",
+                "product_picture": "products/3263.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -2922,91 +2922,91 @@
             {
                 "product_name": "Upward Gas Spring 10 9655",
                 "product_description": "Upward Gas Spring 10\"",
-                "product_picture": "products/4267.png",
+                "product_picture": "products/4267.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Adjustable Leg Black Plastic",
                 "product_description": null,
-                "product_picture": "products/5112.png",
+                "product_picture": "products/5112.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Zinc P",
                 "product_description": null,
-                "product_picture": "products/5126.png",
+                "product_picture": "products/5126.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Nickel",
                 "product_description": null,
-                "product_picture": "products/5127.png",
+                "product_picture": "products/5127.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Chrome",
                 "product_description": null,
-                "product_picture": "products/5128.png",
+                "product_picture": "products/5128.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Ab",
                 "product_description": null,
-                "product_picture": "products/5129.png",
+                "product_picture": "products/5129.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Ac",
                 "product_description": null,
-                "product_picture": "products/5130.png",
+                "product_picture": "products/5130.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Corner Bracket Gold",
                 "product_description": null,
-                "product_picture": "products/5131.png",
+                "product_picture": "products/5131.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plastic Swivel Np 9923 M8",
                 "product_description": null,
-                "product_picture": "products/9216.png",
+                "product_picture": "products/9216.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Foot Operated Door Sto 148 8563",
                 "product_description": null,
-                "product_picture": "products/9137.png",
+                "product_picture": "products/9137.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Foot Operated Door Stop 99 8563",
                 "product_description": null,
-                "product_picture": "products/9136.png",
+                "product_picture": "products/9136.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ss Wall Mounted Stopper 19 8564",
                 "product_description": null,
-                "product_picture": "products/9135.png",
+                "product_picture": "products/9135.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Plastic Bracket 16X11 8558 Brown",
                 "product_description": null,
-                "product_picture": "products/9117.png",
+                "product_picture": "products/9117.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3015,13 +3015,13 @@
     {
         "category_name": "General",
         "description": null,
-        "picture": "categories/2393.png",
+        "picture": "categories/2393.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Butane Gas Asmaco 220G 395ML",
                 "product_description": "Butane Gas (Stove Gas) Asmaco 220G/395ML",
-                "product_picture": "products/2393.png",
+                "product_picture": "products/2393.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3035,14 +3035,14 @@
             {
                 "product_name": "Flour Mill Fully Automatic",
                 "product_description": "Flour Mill Fully Automatic Stoneless (Gharghanti) Prince",
-                "product_picture": "products/2996.png",
+                "product_picture": "products/2996.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Platform Hand Trunk",
                 "product_description": "Platform Hand Trunk HT20A",
-                "product_picture": "products/3456.png",
+                "product_picture": "products/3456.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3051,55 +3051,55 @@
     {
         "category_name": "Glues",
         "description": null,
-        "picture": "categories/4303.png",
+        "picture": "categories/4303.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Silicon Gun Orange",
                 "product_description": "Silicon Gun Orange #9669",
-                "product_picture": "products/4303.png",
+                "product_picture": "products/4303.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Furniture Polish",
                 "product_description": "Furniture Polish 300ML Aura",
-                "product_picture": "products/4318.png",
+                "product_picture": "products/4318.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stainless Steel Polish",
                 "product_description": "Stainless Steel Polish 450ML Asmaco",
-                "product_picture": "products/4319.png",
+                "product_picture": "products/4319.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pufoam Homey 750ML",
                 "product_description": null,
-                "product_picture": "products/6968.png",
+                "product_picture": "products/6968.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Wd 40",
                 "product_description": "WD-40 Made In United Kingdom 350ML",
-                "product_picture": "products/9078.png",
+                "product_picture": "products/9078.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spray Paint Primer",
                 "product_description": "Mr Build Spray Paint Primer Matt Black 400ML",
-                "product_picture": "products/4316.png",
+                "product_picture": "products/4316.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spray Paint",
                 "product_description": "Mr Build Spray Paint Maroon 280GMS",
-                "product_picture": "products/4317.png",
+                "product_picture": "products/4317.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3149,7 +3149,7 @@
             {
                 "product_name": "Gypsum Corner Tape 50MMX30M",
                 "product_description": "Gypsum Corner Tape 50MMX30METRES",
-                "product_picture": "products/3051.png",
+                "product_picture": "products/3051.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3177,7 +3177,7 @@
             {
                 "product_name": "Proson Gp Acetoxy Silicon Sealant",
                 "product_description": "Proson Gp Acetoxy Silicon Sealant 280ML",
-                "product_picture": "products/3514.png",
+                "product_picture": "products/3514.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3205,14 +3205,14 @@
             {
                 "product_name": "Ratchet Die Stock 1S2 Inch 1 1S4 Inch P",
                 "product_description": "Ratchet Die Stock 1/2\"-1-1/4\" Plastic Blue Box Type 112 Schneeberg",
-                "product_picture": "products/3561.png",
+                "product_picture": "products/3561.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Silicon Gun Orange Black Hd",
                 "product_description": "Silicon Gun Orange/Black Heavy Duty Schneeberg",
-                "product_picture": "products/3702.png",
+                "product_picture": "products/3702.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3233,7 +3233,7 @@
             {
                 "product_name": "Silicone Gun Heavy Duty",
                 "product_description": "Silicon Gun Orange Heavy Duty",
-                "product_picture": "products/3709.png",
+                "product_picture": "products/3709.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3247,7 +3247,7 @@
             {
                 "product_name": "Structural Sealant Triton Black 600ML",
                 "product_description": "Structural Sealant Sausage 600ML Black Triton",
-                "product_picture": "products/3818.png",
+                "product_picture": "products/3818.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3261,63 +3261,63 @@
             {
                 "product_name": "Tangit Unilock 20M",
                 "product_description": null,
-                "product_picture": "products/3831.png",
+                "product_picture": "products/3831.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Structural Sealant Triton Clear",
                 "product_description": "Structural Sealant Sausage 600ML Clear Triton",
-                "product_picture": "products/4391.png",
+                "product_picture": "products/4391.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mirror Silicone",
                 "product_description": null,
-                "product_picture": "products/4982.png",
+                "product_picture": "products/4982.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spray Paint Peach Red",
                 "product_description": null,
-                "product_picture": "products/5006.png",
+                "product_picture": "products/5006.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Silicon Tube Grey 85G Mr B",
                 "product_description": null,
-                "product_picture": "products/5008.png",
+                "product_picture": "products/5008.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Epoxy Steel Mr Build 2TUBES",
                 "product_description": null,
-                "product_picture": "products/5009.png",
+                "product_picture": "products/5009.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mirror Silicone Proson",
                 "product_description": null,
-                "product_picture": "products/5025.png",
+                "product_picture": "products/5025.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pattex Smart Black",
                 "product_description": "Pattex Smart Black 280ML",
-                "product_picture": "products/5073.png",
+                "product_picture": "products/5073.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pattex SL212 Transparent",
                 "product_description": "Pattex SL212 Transparent 280ML",
-                "product_picture": "products/5074.png",
+                "product_picture": "products/5074.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3346,14 +3346,14 @@
             {
                 "product_name": "Aviation Tinsnip For Gypsum 10 Inch",
                 "product_description": "Aviation Tin Snip Straight 10\" Schneeberg",
-                "product_picture": "products/2320.png",
+                "product_picture": "products/2320.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Carpenter Pincer 8 Inch Jk",
                 "product_description": "Carpenter Pincer 8\" J.k",
-                "product_picture": "products/2407.png",
+                "product_picture": "products/2407.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3367,35 +3367,35 @@
             {
                 "product_name": "Eclipse Pipe Wrench 12 Inch",
                 "product_description": "Eclipse Pipe Wrench 12\"",
-                "product_picture": "products/2706.png",
+                "product_picture": "products/2706.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Fencing Pliers 10P5 Inch Rossel",
                 "product_description": "Fencing Pliers 10.5\" \"Rossel\"",
-                "product_picture": "products/2964.png",
+                "product_picture": "products/2964.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Glass And Tile Cutter Etching Pen",
                 "product_description": "Glass + Tile Cutter Etching Pen Type Metal Rossel",
-                "product_picture": "products/3029.png",
+                "product_picture": "products/3029.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Glass Cutter Rossel Oil Type",
                 "product_description": null,
-                "product_picture": "products/3032.png",
+                "product_picture": "products/3032.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Glass Cutter Sextuple Roller",
                 "product_description": "Glass Cutter Sextuple Roller Type Rossel",
-                "product_picture": "products/3033.png",
+                "product_picture": "products/3033.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3423,7 +3423,7 @@
             {
                 "product_name": "Hacksaw Frame 306 Bahco",
                 "product_description": "Hacksaw Frame Sandflex - 306 Bahco",
-                "product_picture": "products/3063.png",
+                "product_picture": "products/3063.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3479,7 +3479,7 @@
             {
                 "product_name": "Pliers 8 Inch Light",
                 "product_description": "Pliers 8\" Light",
-                "product_picture": "products/3458.png",
+                "product_picture": "products/3458.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3493,7 +3493,7 @@
             {
                 "product_name": "Rivet Gun Long Hand Riveter 17 Inch",
                 "product_description": "Rivet Gun Long Two Spout Hand Riveter 17\"",
-                "product_picture": "products/3587.png",
+                "product_picture": "products/3587.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3606,56 +3606,56 @@
             {
                 "product_name": "Tee Hinges Imported Hd Natraj Black",
                 "product_description": null,
-                "product_picture": "products/8799.png",
+                "product_picture": "products/8799.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Double Action Spring Hinge 3",
                 "product_description": null,
-                "product_picture": "products/9198.png",
+                "product_picture": "products/9198.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Butterfly Hinges Jua Kali 3S4",
                 "product_description": null,
-                "product_picture": "products/9177.png",
+                "product_picture": "products/9177.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Door Bush Hinges 1P5X80",
                 "product_description": null,
-                "product_picture": "products/9149.png",
+                "product_picture": "products/9149.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Lift Hinges 4X2 Left 8551",
                 "product_description": null,
-                "product_picture": "products/9134.png",
+                "product_picture": "products/9134.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Lift Hinges 4X2 Right 8551",
                 "product_description": null,
-                "product_picture": "products/9133.png",
+                "product_picture": "products/9133.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spring Butt Hinge 3MM 8557",
                 "product_description": null,
-                "product_picture": "products/9132.png",
+                "product_picture": "products/9132.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Parliament Hinges 3MM 8556",
                 "product_description": null,
-                "product_picture": "products/9131.png",
+                "product_picture": "products/9131.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3690,7 +3690,7 @@
             {
                 "product_name": "Mild Steel Hinges",
                 "product_description": "Mild Steel Hinges 4\" India Heavy Duty 52KGS-54KGS/CASE (15DOZ-PAIRS/CTN)",
-                "product_picture": "products/3313.png",
+                "product_picture": "products/3313.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3726,21 +3726,21 @@
             {
                 "product_name": "Biometric Door Lock S FGD200",
                 "product_description": "Biometric Glass Door Lock S-FGD200",
-                "product_picture": "products/2357.png",
+                "product_picture": "products/2357.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Biometric Finger S B251CB Wifi",
                 "product_description": "Ip Biometric Fingerprint Reader With Wifi S-B251CB Wi-Fi",
-                "product_picture": "products/2358.png",
+                "product_picture": "products/2358.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Biometric Fingerprint S B8CB",
                 "product_description": "Ip Biometric Fingerprint Reader - S-B8CB",
-                "product_picture": "products/2359.png",
+                "product_picture": "products/2359.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3783,42 +3783,42 @@
             {
                 "product_name": "Filter Spun White",
                 "product_description": "Filter Spun (White)",
-                "product_picture": "products/2966.png",
+                "product_picture": "products/2966.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Basket Sink Strainer",
                 "product_description": "Basket Sink Strainer 1-1/2\"",
-                "product_picture": "products/4298.png",
+                "product_picture": "products/4298.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "High Pressure Lpg Gaugeless Regulator",
                 "product_description": null,
-                "product_picture": "products/7519.png",
+                "product_picture": "products/7519.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "High Pressure Regulator 9912",
                 "product_description": null,
-                "product_picture": "products/9217.png",
+                "product_picture": "products/9217.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Rubber Gas Lpg Hose 9888 5S16",
                 "product_description": null,
-                "product_picture": "products/9205.png",
+                "product_picture": "products/9205.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pvc Gas Lpg Hose 9897 5S16",
                 "product_description": null,
-                "product_picture": "products/9199.png",
+                "product_picture": "products/9199.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3832,7 +3832,7 @@
             {
                 "product_name": "Water Filters",
                 "product_description": "Water Filters Without Electricity Square Model",
-                "product_picture": "products/3980.png",
+                "product_picture": "products/3980.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -3861,7 +3861,7 @@
             {
                 "product_name": "2L Lock Only Klabb Brass Plate",
                 "product_description": "2 Lever Lock Only Klabb Brass Plate",
-                "product_picture": "products/2222.png",
+                "product_picture": "products/2222.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3875,14 +3875,14 @@
             {
                 "product_name": "Viro Padlock Rectangular 305",
                 "product_description": null,
-                "product_picture": "products/3965.png",
+                "product_picture": "products/3965.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Aldrop Coloured India",
                 "product_description": null,
-                "product_picture": "products/2265.png",
+                "product_picture": "products/2265.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3917,14 +3917,14 @@
             {
                 "product_name": "Cyliner Lock RF8502CP Sn",
                 "product_description": "Cylinder Lock Rossel + Dotted Key (RF8502CP-SN)",
-                "product_picture": "products/2525.png",
+                "product_picture": "products/2525.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Door Closer Rossel 45 To 65KGS",
                 "product_description": "Door Closer Rossel 45-65KGS",
-                "product_picture": "products/2611.png",
+                "product_picture": "products/2611.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3938,14 +3938,14 @@
             {
                 "product_name": "Drawer Lock Rossel Black Box",
                 "product_description": "Drawer Lock Rossel - Black Box",
-                "product_picture": "products/2630.png",
+                "product_picture": "products/2630.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Drawer Lock Rossel With Plate",
                 "product_description": "Drawer Lock Rossel With Plate And Screws - Blue Box",
-                "product_picture": "products/2631.png",
+                "product_picture": "products/2631.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3966,14 +3966,14 @@
             {
                 "product_name": "Indicator Bolts Chrome Finish",
                 "product_description": "Indicator Bolts Lock It Brand Chrome Finish",
-                "product_picture": "products/3150.png",
+                "product_picture": "products/3150.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Indicator Bolts Matt Finish",
                 "product_description": "Indicator Bolts Spider Brand Ss Finish \"Matt\"",
-                "product_picture": "products/3151.png",
+                "product_picture": "products/3151.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -3987,70 +3987,70 @@
             {
                 "product_name": "Key Only",
                 "product_description": null,
-                "product_picture": "products/3210.png",
+                "product_picture": "products/3210.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Klabb Aluminium Handle Only V 1000",
                 "product_description": "Klabb Aluminium Handle Only V-1000",
-                "product_picture": "products/3217.png",
+                "product_picture": "products/3217.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Klabb Brass Handle Only Plain V700",
                 "product_description": "Brass Handle Only Plain V-700 India Klabb",
-                "product_picture": "products/3218.png",
+                "product_picture": "products/3218.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Klabb Brass Handle Only S Type",
                 "product_description": "Brass Handle Only S-Type India V-800 Klabb",
-                "product_picture": "products/3219.png",
+                "product_picture": "products/3219.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Natraj Mortice Lock",
                 "product_description": "Natraj Mortice Lock Martin Handle India",
-                "product_picture": "products/3336.png",
+                "product_picture": "products/3336.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Night Latch 616",
                 "product_description": "Night Latch 616/1939 Blister Pack - Rossel Brand",
-                "product_picture": "products/3339.png",
+                "product_picture": "products/3339.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Night Latch 616 Anchor",
                 "product_description": null,
-                "product_picture": "products/3340.png",
+                "product_picture": "products/3340.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Night Latch Yale Antique Gold",
                 "product_description": "Night Latch Yale Antique Gold/Brass",
-                "product_picture": "products/3341.png",
+                "product_picture": "products/3341.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Night Latch Yale Gold",
                 "product_description": null,
-                "product_picture": "products/3342.png",
+                "product_picture": "products/3342.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Oval Escutcheon Black",
                 "product_description": null,
-                "product_picture": "products/3354.png",
+                "product_picture": "products/3354.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4072,14 +4072,14 @@
             {
                 "product_name": "Cloth Line 9735 3MMX10M",
                 "product_description": "Cloth Line (Cloth Rope Wire For Hanging Clothes) 3MMX10M Rossel 9735",
-                "product_picture": "products/2461.png",
+                "product_picture": "products/2461.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Digital Pocket Balance 50KGS",
                 "product_description": "Digital Pocket Balance 50KGS Krickwood Brand",
-                "product_picture": "products/2603.png",
+                "product_picture": "products/2603.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4114,7 +4114,7 @@
             {
                 "product_name": "String Level Delta",
                 "product_description": null,
-                "product_picture": "products/3815.png",
+                "product_picture": "products/3815.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4128,49 +4128,49 @@
             {
                 "product_name": "Aluminium Six Folding Ruler",
                 "product_description": "Aluminium Six-Folding Ruler Rossel 8537",
-                "product_picture": "products/4341.png",
+                "product_picture": "products/4341.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Cloth Line 9735",
                 "product_description": "Cloth Line (Cloth Rope Wire For Hanging Clothes) 3MMX20M Rossel 9735",
-                "product_picture": "products/4370.png",
+                "product_picture": "products/4370.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hedge Shear Green White Metal",
                 "product_description": "Hedge Shear Green/White Metal Handle Schneeberg 9716 10\"",
-                "product_picture": "products/4371.png",
+                "product_picture": "products/4371.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pvc Thread Tool Maker",
                 "product_description": "Pvc Thread Tool Maker Rossel 9783",
-                "product_picture": "products/4372.png",
+                "product_picture": "products/4372.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Irwin Measure Tape 5M",
                 "product_description": null,
-                "product_picture": "products/4991.png",
+                "product_picture": "products/4991.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Measure Tape Krickwood",
                 "product_description": null,
-                "product_picture": "products/4996.png",
+                "product_picture": "products/4996.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Electronic Luggage Scale HM0906",
                 "product_description": null,
-                "product_picture": "products/6894.png",
+                "product_picture": "products/6894.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4205,7 +4205,7 @@
             {
                 "product_name": "Measuring Tape Tylon Stanley",
                 "product_description": "Measuring Tape 8M Tylon Stanley",
-                "product_picture": "products/3298.png",
+                "product_picture": "products/3298.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4233,14 +4233,14 @@
             {
                 "product_name": "Proson Scale",
                 "product_description": "Proson Scale 200KGS",
-                "product_picture": "products/3515.png",
+                "product_picture": "products/3515.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spring Balance Small",
                 "product_description": "Spring Balance 50KG",
-                "product_picture": "products/3766.png",
+                "product_picture": "products/3766.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4304,7 +4304,7 @@
             {
                 "product_name": "Combination Spanner 8PC Set",
                 "product_description": "Combination Spanner 8PC/SET (8-19MM)",
-                "product_picture": "products/2473.png",
+                "product_picture": "products/2473.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4325,14 +4325,14 @@
             {
                 "product_name": "Fix Spanner 6PCS Set",
                 "product_description": "Fix Spanner 6PCS/SET (6-17MM)",
-                "product_picture": "products/2972.png",
+                "product_picture": "products/2972.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Fix Spanner 8PCS Set",
                 "product_description": "Fix Spanner 8PCS/SET (6-22MM)",
-                "product_picture": "products/2973.png",
+                "product_picture": "products/2973.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4367,7 +4367,7 @@
             {
                 "product_name": "Trolley Jack 2 Tonnes",
                 "product_description": null,
-                "product_picture": "products/3906.png",
+                "product_picture": "products/3906.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4395,70 +4395,70 @@
             {
                 "product_name": "Total Plastic Organizer TPBX1151",
                 "product_description": "Total Plastic Organizer 370MM(15'')*290MM(11.4\")*65MM(2.5\") TPBX1151",
-                "product_picture": "products/4451.png",
+                "product_picture": "products/4451.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Grease Gun 200CC Krickwood",
                 "product_description": null,
-                "product_picture": "products/5078.png",
+                "product_picture": "products/5078.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bearing Puller Natraj 8 Inches",
                 "product_description": null,
-                "product_picture": "products/7510.png",
+                "product_picture": "products/7510.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bearing Puller Natraj 10 Inches",
                 "product_description": null,
-                "product_picture": "products/7511.png",
+                "product_picture": "products/7511.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bearing Puller Natraj 12 Inches",
                 "product_description": null,
-                "product_picture": "products/7512.png",
+                "product_picture": "products/7512.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ring Spanner 14x15 Natraj Hd",
                 "product_description": null,
-                "product_picture": "products/8800.png",
+                "product_picture": "products/8800.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hand Pallet Hydraulic Truck 3T",
                 "product_description": null,
-                "product_picture": "products/9223.png",
+                "product_picture": "products/9223.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "72T Curved Ratchet Wrench 9913",
                 "product_description": null,
-                "product_picture": "products/9222.png",
+                "product_picture": "products/9222.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Single Wheel Pulley 1T",
                 "product_description": null,
-                "product_picture": "products/9179.png",
+                "product_picture": "products/9179.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Single Wheel Pulley 0P5 T",
                 "product_description": null,
-                "product_picture": "products/9178.png",
+                "product_picture": "products/9178.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4486,7 +4486,7 @@
             {
                 "product_name": "Adjustable Wrench Without Grip",
                 "product_description": "Adjustable Wrench Without Grip 24\"",
-                "product_picture": "products/2256.png",
+                "product_picture": "products/2256.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4508,28 +4508,28 @@
             {
                 "product_name": "Panel Pin LH17",
                 "product_description": "Panel Pins LH17*2\"",
-                "product_picture": "products/3383.png",
+                "product_picture": "products/3383.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Plastic Tacks 27MM 9952",
                 "product_description": null,
-                "product_picture": "products/9121.png",
+                "product_picture": "products/9121.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Plastic Tacks 22MM 9952",
                 "product_description": null,
-                "product_picture": "products/9120.png",
+                "product_picture": "products/9120.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "White Plastic Tacks 19MM 9952",
                 "product_description": null,
-                "product_picture": "products/9119.png",
+                "product_picture": "products/9119.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4543,7 +4543,7 @@
             {
                 "product_name": "Panel Pin LH14",
                 "product_description": "Panel Pins LH14X1-1/2\"",
-                "product_picture": "products/3382.png",
+                "product_picture": "products/3382.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4571,7 +4571,7 @@
             {
                 "product_name": "Steel Nail Proson",
                 "product_description": "Steel Nail 4\" Proson",
-                "product_picture": "products/3808.png",
+                "product_picture": "products/3808.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4580,13 +4580,13 @@
     {
         "category_name": "Plumbing Fittings",
         "description": null,
-        "picture": "categories/2328.png",
+        "picture": "categories/2328.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Ball Cock Chrome 3S4 Inch",
                 "product_description": "Ball Cock Chrome 3/4\"",
-                "product_picture": "products/2328.png",
+                "product_picture": "products/2328.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4600,7 +4600,7 @@
             {
                 "product_name": "Brass Backnut 1S2 Inch",
                 "product_description": "Brass Backnut 1/2\"",
-                "product_picture": "products/2378.png",
+                "product_picture": "products/2378.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4621,21 +4621,21 @@
             {
                 "product_name": "Cistern Pipe 50MM",
                 "product_description": null,
-                "product_picture": "products/2451.png",
+                "product_picture": "products/2451.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Concealed Stop Cock",
                 "product_description": "Concealed Stop Cock Schneeberg 1/2''",
-                "product_picture": "products/2476.png",
+                "product_picture": "products/2476.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Floor Trap 4IN X 2IN",
                 "product_description": "Floor Trap 4\"X2\"",
-                "product_picture": "products/2995.png",
+                "product_picture": "products/2995.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4663,14 +4663,14 @@
             {
                 "product_name": "Meter Liner For Water Meter 1S2",
                 "product_description": "Meter Liner For Water Meter 1/2\"",
-                "product_picture": "products/3311.png",
+                "product_picture": "products/3311.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Pecker Release Valve 1S2 Ferrules",
                 "product_description": "Pecker Release Valve (Ferrules) 1/2",
-                "product_picture": "products/3394.png",
+                "product_picture": "products/3394.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4684,7 +4684,7 @@
             {
                 "product_name": "Ppr Female Elbow For Mixers",
                 "product_description": "Ppr Female Elbow For Mixers 25 X 1/2\"",
-                "product_picture": "products/3493.png",
+                "product_picture": "products/3493.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4719,7 +4719,7 @@
             {
                 "product_name": "Stop Cock Green Cartoon Tricon",
                 "product_description": "Concealed Stop Cock Green Cartoon - Tricon",
-                "product_picture": "products/3813.png",
+                "product_picture": "products/3813.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4733,7 +4733,7 @@
             {
                 "product_name": "Thread Tape China Blue Packet",
                 "product_description": "Thread Tape China Green Packet -",
-                "product_picture": "products/3844.png",
+                "product_picture": "products/3844.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4747,14 +4747,14 @@
             {
                 "product_name": "Thread Tape Yellow 12MM",
                 "product_description": "Thread Tape Yellow 12MMX0.075X10 Proson -",
-                "product_picture": "products/3846.png",
+                "product_picture": "products/3846.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Water Meter Brass Big Body 1S2 Inch",
                 "product_description": "Water Meter Brass Big Body 1/2\"",
-                "product_picture": "products/3982.png",
+                "product_picture": "products/3982.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4768,28 +4768,28 @@
             {
                 "product_name": "Wc Connector Pecker",
                 "product_description": "W.c Connector (Magic Bend) With Wire Pecker Original",
-                "product_picture": "products/3991.png",
+                "product_picture": "products/3991.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Hand Test Pump RP50 Rossel",
                 "product_description": null,
-                "product_picture": "products/4342.png",
+                "product_picture": "products/4342.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Gypsum Board Cutting Tool",
                 "product_description": "Gypsum Board Cutting Tool With Inbuilt Measure Tape And Pencil Holder Rossel 8526 9\"",
-                "product_picture": "products/4367.png",
+                "product_picture": "products/4367.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Metal Studs Nailless Crimper 10",
                 "product_description": "Metal Studs Nailless Crimper Rossel 8529 10\"",
-                "product_picture": "products/4368.png",
+                "product_picture": "products/4368.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4825,77 +4825,77 @@
             {
                 "product_name": "Dewalt 701W Percussion Drill",
                 "product_description": null,
-                "product_picture": "products/4967.png",
+                "product_picture": "products/4967.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Dewalt Cordless Drill 18V",
                 "product_description": null,
-                "product_picture": "products/4968.png",
+                "product_picture": "products/4968.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Makita Angle Grinder 4P5",
                 "product_description": null,
-                "product_picture": "products/4969.png",
+                "product_picture": "products/4969.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Makita Percussion Drill",
                 "product_description": null,
-                "product_picture": "products/4970.png",
+                "product_picture": "products/4970.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Makita 24MM Rotary Hammer",
                 "product_description": null,
-                "product_picture": "products/4971.png",
+                "product_picture": "products/4971.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Carbon Brush Finishing Sender",
                 "product_description": null,
-                "product_picture": "products/5022.png",
+                "product_picture": "products/5022.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Dewalt 750W 13MM Percussion Dri",
                 "product_description": null,
-                "product_picture": "products/6957.png",
+                "product_picture": "products/6957.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bosch Gws 700 Angle Grinder",
                 "product_description": null,
-                "product_picture": "products/6960.png",
+                "product_picture": "products/6960.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bosch GSB600 Hammer Drill 13MM",
                 "product_description": null,
-                "product_picture": "products/6961.png",
+                "product_picture": "products/6961.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Power Bit Both Side Star 65MM V",
                 "product_description": "Power Bit Both Side Star 65MM Voxpro Golden Golden Golden",
-                "product_picture": "products/9024.png",
+                "product_picture": "products/9024.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Carbon Brush For Dewalt 9 Grind",
                 "product_description": null,
-                "product_picture": "products/9176.png",
+                "product_picture": "products/9176.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4923,7 +4923,7 @@
             {
                 "product_name": "Dewalt Angle Grinder",
                 "product_description": null,
-                "product_picture": "products/4400.png",
+                "product_picture": "products/4400.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4932,41 +4932,41 @@
     {
         "category_name": "Pufoams Sealants Henkel Other Brands",
         "description": null,
-        "picture": "categories/4303.png",
+        "picture": "categories/4303.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Silicon Gun Orange",
                 "product_description": "Silicon Gun Orange #9669",
-                "product_picture": "products/4303.png",
+                "product_picture": "products/4303.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Furniture Polish",
                 "product_description": "Furniture Polish 300ML Aura",
-                "product_picture": "products/4318.png",
+                "product_picture": "products/4318.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stainless Steel Polish",
                 "product_description": "Stainless Steel Polish 450ML Asmaco",
-                "product_picture": "products/4319.png",
+                "product_picture": "products/4319.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spray Paint Primer",
                 "product_description": "Mr Build Spray Paint Primer Matt Black 400ML",
-                "product_picture": "products/4316.png",
+                "product_picture": "products/4316.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Spray Paint",
                 "product_description": "Mr Build Spray Paint Maroon 280GMS",
-                "product_picture": "products/4317.png",
+                "product_picture": "products/4317.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -4975,13 +4975,13 @@
     {
         "category_name": "Safety Equipments",
         "description": null,
-        "picture": "categories/2406.png",
+        "picture": "categories/2406.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Cargo Lashing Belt 2INCHX20FTX3TONNES",
                 "product_description": "Cargo Lashing Belt 2\"X20FTX3TONNES",
-                "product_picture": "products/2406.png",
+                "product_picture": "products/2406.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -4995,7 +4995,7 @@
             {
                 "product_name": "Clear Goggles 4 Air Vents 9822",
                 "product_description": "Clear Goggles 4 Air Vents Rossel",
-                "product_picture": "products/2458.png",
+                "product_picture": "products/2458.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5016,7 +5016,7 @@
             {
                 "product_name": "Cut Resistant Gloves 10 Inch",
                 "product_description": "Cut Resistant Gloves - 10\" (24.5CM)",
-                "product_picture": "products/2519.png",
+                "product_picture": "products/2519.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5058,14 +5058,14 @@
             {
                 "product_name": "Ear Plug H D With Plastic Case",
                 "product_description": "Ear Plug Heavy With Plastic Case",
-                "product_picture": "products/2664.png",
+                "product_picture": "products/2664.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ear Plug L D Polythene Packing",
                 "product_description": "Ear Plug Light Duty Polythene Packing",
-                "product_picture": "products/2665.png",
+                "product_picture": "products/2665.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5114,28 +5114,28 @@
             {
                 "product_name": "Metal Detector",
                 "product_description": "Metal Detector For Security - Heavy Duty",
-                "product_picture": "products/3307.png",
+                "product_picture": "products/3307.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Metal Detector Door S Dfmdm",
                 "product_description": "Multi Zone Door Frame Metal Detector S-Dfmdm",
-                "product_picture": "products/3308.png",
+                "product_picture": "products/3308.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Nitrile Coated Gloves No 10 Black",
                 "product_description": "Nitrile Coated Gloves Rossel NO.10 (Black)",
-                "product_picture": "products/3344.png",
+                "product_picture": "products/3344.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Nitrile Green Gloves Schuller",
                 "product_description": "Nitrile Gloves Green Xl Schuller",
-                "product_picture": "products/3345.png",
+                "product_picture": "products/3345.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5149,42 +5149,42 @@
             {
                 "product_name": "Safety Belt Double Safety Rossel",
                 "product_description": "Safety Belt Double Safety Harness (Orange) Rossel",
-                "product_picture": "products/3619.png",
+                "product_picture": "products/3619.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Safety Belt Full Body Black",
                 "product_description": "Safety Belt Full Body With Bumper Hd - Black",
-                "product_picture": "products/3620.png",
+                "product_picture": "products/3620.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Safety Belt Full Body Orange Bumper",
                 "product_description": "Safety Belt Full Body With Bumper - Orange",
-                "product_picture": "products/3621.png",
+                "product_picture": "products/3621.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Safety Belt Full Body Orange W Rope Hook",
                 "product_description": "Safety Belt Full Body (Safety Harness Orange Colour With Rope And Hook) Rossel",
-                "product_picture": "products/3622.png",
+                "product_picture": "products/3622.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Safety Belt Single Orange",
                 "product_description": "Safety Belt Single (Orange) Safety Harness Rossel",
-                "product_picture": "products/3623.png",
+                "product_picture": "products/3623.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Safety Fence 1MX50METRES",
                 "product_description": "Safety Fence 1MX50METRES (100GSM Mesh) Size 100X40MM (Orange)",
-                "product_picture": "products/3625.png",
+                "product_picture": "products/3625.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -5213,196 +5213,196 @@
             {
                 "product_name": "Flap Disk 7 P120 Delta",
                 "product_description": "Flap Disk 7\" P120 Delta",
-                "product_picture": "products/9090.png",
+                "product_picture": "products/9090.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 7 P100 Delta",
                 "product_description": "Flap Disk 7\" P100 Delta",
-                "product_picture": "products/9089.png",
+                "product_picture": "products/9089.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 7 P80 Delta",
                 "product_description": "Flap Disk 7\" P80 Delta",
-                "product_picture": "products/9088.png",
+                "product_picture": "products/9088.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 7 P60 Delta",
                 "product_description": "Flap Disk 7\" P60 Delta",
-                "product_picture": "products/9087.png",
+                "product_picture": "products/9087.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 7 P40 Delta",
                 "product_description": "Flap Disk 7\" P40 Delta",
-                "product_picture": "products/9086.png",
+                "product_picture": "products/9086.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 7 P36 Delta",
                 "product_description": "Flap Disk 7\" P36 Delta",
-                "product_picture": "products/9085.png",
+                "product_picture": "products/9085.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P120 Delta",
                 "product_description": "Flap Disk 4-1/2\" P120 Delta",
-                "product_picture": "products/9084.png",
+                "product_picture": "products/9084.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P100 Delta",
                 "product_description": "Flap Disk 4-1/2\" P100 Delta",
-                "product_picture": "products/9083.png",
+                "product_picture": "products/9083.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P80 Delta",
                 "product_description": "Flap Disk 4-1/2\" P80 Delta",
-                "product_picture": "products/9082.png",
+                "product_picture": "products/9082.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P60 Delta",
                 "product_description": "Flap Disk 4-1/2\" P60 Delta",
-                "product_picture": "products/9081.png",
+                "product_picture": "products/9081.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P40 Delta",
                 "product_description": "Flap Disk 4-1/2\" P40 Delta",
-                "product_picture": "products/9080.png",
+                "product_picture": "products/9080.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disk 4P5 P36 Delta",
                 "product_description": "Flap Disk 4-1/2\" P36 Delta",
-                "product_picture": "products/9079.png",
+                "product_picture": "products/9079.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Screw Connector 9953 M14",
                 "product_description": null,
-                "product_picture": "products/9215.png",
+                "product_picture": "products/9215.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Fiber Disk 9848 4P5 P80",
                 "product_description": null,
-                "product_picture": "products/9214.png",
+                "product_picture": "products/9214.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Fiber Disk 9848 4P5 P24",
                 "product_description": null,
-                "product_picture": "products/9213.png",
+                "product_picture": "products/9213.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P120",
                 "product_description": null,
-                "product_picture": "products/9212.png",
+                "product_picture": "products/9212.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P100",
                 "product_description": null,
-                "product_picture": "products/9211.png",
+                "product_picture": "products/9211.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P80",
                 "product_description": null,
-                "product_picture": "products/9210.png",
+                "product_picture": "products/9210.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P60",
                 "product_description": null,
-                "product_picture": "products/9209.png",
+                "product_picture": "products/9209.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P40",
                 "product_description": null,
-                "product_picture": "products/9208.png",
+                "product_picture": "products/9208.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sanding Belt 9935 P36",
                 "product_description": null,
-                "product_picture": "products/9207.png",
+                "product_picture": "products/9207.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Fiber Disc 9848 7 P24",
                 "product_description": null,
-                "product_picture": "products/9206.png",
+                "product_picture": "products/9206.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P80 Rossel",
                 "product_description": null,
-                "product_picture": "products/9185.png",
+                "product_picture": "products/9185.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P60 Rossel",
                 "product_description": null,
-                "product_picture": "products/9184.png",
+                "product_picture": "products/9184.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P40 Rossel",
                 "product_description": null,
-                "product_picture": "products/9183.png",
+                "product_picture": "products/9183.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P36 Rossel",
                 "product_description": null,
-                "product_picture": "products/9182.png",
+                "product_picture": "products/9182.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P120 Rossel",
                 "product_description": null,
-                "product_picture": "products/9181.png",
+                "product_picture": "products/9181.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Flap Disc 7 P100 Rossel",
                 "product_description": null,
-                "product_picture": "products/9180.png",
+                "product_picture": "products/9180.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -5431,28 +5431,28 @@
             {
                 "product_name": "Angle Valve Two Way Cartoon",
                 "product_description": null,
-                "product_picture": "products/2307.png",
+                "product_picture": "products/2307.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Angular Push Cock One Push Green Bx",
                 "product_description": "Angular Push Cock (Green Box) One Push",
-                "product_picture": "products/2308.png",
+                "product_picture": "products/2308.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Basket Sink Waste 1 1S2 Inch Schneeberg",
                 "product_description": "Basket Sink Waste 1-1/2\" Schneeberg",
-                "product_picture": "products/2336.png",
+                "product_picture": "products/2336.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Bath Mixer Roman Head Schneeberg",
                 "product_description": "Bath Mixer Roman Head +Pipe+S/Rose \"Schneeberg\"",
-                "product_picture": "products/2337.png",
+                "product_picture": "products/2337.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5480,14 +5480,14 @@
             {
                 "product_name": "Gulley Trap",
                 "product_description": "Gulley Trap 2\"",
-                "product_picture": "products/3046.png",
+                "product_picture": "products/3046.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Kitchen Mixer Roman Head Schneeberg",
                 "product_description": null,
-                "product_picture": "products/3213.png",
+                "product_picture": "products/3213.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5515,7 +5515,7 @@
             {
                 "product_name": "Seat Cover Fitting Only",
                 "product_description": null,
-                "product_picture": "products/3652.png",
+                "product_picture": "products/3652.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5529,7 +5529,7 @@
             {
                 "product_name": "Shower Arm Gi Pipe 12INCH X 12INCH",
                 "product_description": "Shower Arm Gi Pipe 12\"X1/2\"",
-                "product_picture": "products/3689.png",
+                "product_picture": "products/3689.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5557,7 +5557,7 @@
             {
                 "product_name": "Shower Pipe For Telephone Mixer",
                 "product_description": "Shower Pipe Chrome For Telephone Mixers 1.5METRES",
-                "product_picture": "products/3695.png",
+                "product_picture": "products/3695.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5571,14 +5571,14 @@
             {
                 "product_name": "Slow Closing Seat Cover",
                 "product_description": "Slow Closing Seat Cover Pecker",
-                "product_picture": "products/3746.png",
+                "product_picture": "products/3746.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Soap Dish Stainless Steel",
                 "product_description": "Soap Dish Stainless Steel (Old Type)",
-                "product_picture": "products/3749.png",
+                "product_picture": "products/3749.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5606,21 +5606,21 @@
             {
                 "product_name": "Push Button Cistern Kensplastic",
                 "product_description": "Push Button Cistern Plastic Kensplastic Kensssssssssssssss",
-                "product_picture": "products/4460.png",
+                "product_picture": "products/4460.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Angle Valve Ezuri",
                 "product_description": "Angle Valve Ezuri WD2002",
-                "product_picture": "products/4462.png",
+                "product_picture": "products/4462.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Rudex Bath Mixer",
                 "product_description": null,
-                "product_picture": "products/4995.png",
+                "product_picture": "products/4995.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -5629,13 +5629,13 @@
     {
         "category_name": "Screws",
         "description": null,
-        "picture": "categories/2370.png",
+        "picture": "categories/2370.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Bottle Trap Long Screw",
                 "product_description": null,
-                "product_picture": "products/2370.png",
+                "product_picture": "products/2370.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5656,98 +5656,98 @@
             {
                 "product_name": "Wash Basin Screw M10X95MM",
                 "product_description": "Wash Basin Screw M10X95MM Kromm",
-                "product_picture": "products/3975.png",
+                "product_picture": "products/3975.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Cage Screw",
                 "product_description": "Cage Screw With Cage Nut, Black Zinc Plated Not Assembled M6X16MM",
-                "product_picture": "products/4300.png",
+                "product_picture": "products/4300.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Cross Countersunk",
                 "product_description": "Cross Countersunk Head Galvanized Machine Screw 4MMX1\"",
-                "product_picture": "products/4301.png",
+                "product_picture": "products/4301.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Roofing Self Drilling 5P5X4 Inch",
                 "product_description": "Roofing Self Drilling Screw 200PCS/ Pkt 5.5X4\"",
-                "product_picture": "products/5421.png",
+                "product_picture": "products/5421.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Self Drilling Screw Star 4P2X25MM",
                 "product_description": null,
-                "product_picture": "products/6898.png",
+                "product_picture": "products/6898.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Roofing Self Drilling 5P5X2 120",
                 "product_description": null,
-                "product_picture": "products/6903.png",
+                "product_picture": "products/6903.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mdf Screw 6X100MM 100PCS",
                 "product_description": null,
-                "product_picture": "products/6907.png",
+                "product_picture": "products/6907.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Roofing Self Drilling 5P5X2 150",
                 "product_description": null,
-                "product_picture": "products/7479.png",
+                "product_picture": "products/7479.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mdf Screw 5X60MM",
                 "product_description": "Mdf Screw 5X60MM (Yellow)",
-                "product_picture": "products/8559.png",
+                "product_picture": "products/8559.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Roofing Self Drilling 5P5X3",
                 "product_description": "Roofing Self Drilling Screw 5.5X3\" Knicker",
-                "product_picture": "products/8583.png",
+                "product_picture": "products/8583.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Roofing Self Drilling 1P5 150",
                 "product_description": null,
-                "product_picture": "products/8584.png",
+                "product_picture": "products/8584.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mdf Screw 3P5X30MM",
                 "product_description": "Mdf Screw 4.0X30MM (Yellow)",
-                "product_picture": "products/8590.png",
+                "product_picture": "products/8590.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Mdf Screw 4X20MM",
                 "product_description": "Mdf Screw 4X20MM (Yellow)",
-                "product_picture": "products/8963.png",
+                "product_picture": "products/8963.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Brass Plated Wood Screw",
                 "product_description": "Brass Plated Wood Screw 1-1/2*10",
-                "product_picture": "products/2381.png",
+                "product_picture": "products/2381.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5810,7 +5810,7 @@
             {
                 "product_name": "Roofing Self Drilling",
                 "product_description": "Roofing Self Drilling Screw 200PCS/ Pkt 5.5X3/4\"",
-                "product_picture": "products/3603.png",
+                "product_picture": "products/3603.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5860,14 +5860,14 @@
             {
                 "product_name": "16CH Falcon Nvr S Nvr 1",
                 "product_description": "16CH Falcon Nvr 4K Series / 2SATA - S-NVR-1",
-                "product_picture": "products/2207.png",
+                "product_picture": "products/2207.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "16CH Nvr St Nvr 011",
                 "product_description": "16CH Nvr ST-NVR-011",
-                "product_picture": "products/2208.png",
+                "product_picture": "products/2208.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5909,21 +5909,21 @@
             {
                 "product_name": "32CH Falcon Nvr S Nvr 2",
                 "product_description": "32CH Falcon Nvr 4K Series / 2SATA - S-NVR-2",
-                "product_picture": "products/2216.png",
+                "product_picture": "products/2216.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "32CH Falcon Nvr S Nvr 3",
                 "product_description": "32CH Falcon Nvr 4K Series / 4SATA - S-NVR-3",
-                "product_picture": "products/2224.png",
+                "product_picture": "products/2224.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "3MP 4G Bullet Camera Sip W3 G",
                 "product_description": "3MP 4G Bullet Camera - SIP-W3-G",
-                "product_picture": "products/2225.png",
+                "product_picture": "products/2225.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5951,7 +5951,7 @@
             {
                 "product_name": "3MP Wifi Camera Sip W3 W",
                 "product_description": "3MP Wifi Bullet Camera - SIP-W3-W",
-                "product_picture": "products/2229.png",
+                "product_picture": "products/2229.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5965,21 +5965,21 @@
             {
                 "product_name": "4G Outdoor Wifi Camera",
                 "product_description": "Secureye 4G Outdoor Wifi Camera SIP-2HDG-W40",
-                "product_picture": "products/2231.png",
+                "product_picture": "products/2231.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "50M Hdmi Extender S Hdkec 50M",
                 "product_description": "50 Meter Hdmi Extender With Usb S-HDKEC-50M",
-                "product_picture": "products/2233.png",
+                "product_picture": "products/2233.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "5MP Ip Dome Camera S CCI1",
                 "product_description": "5MP Ip Dome Camera With Motorized Lens/Audio In & Out) - S-CCI1",
-                "product_picture": "products/2235.png",
+                "product_picture": "products/2235.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -5993,7 +5993,7 @@
             {
                 "product_name": "64CH Falcon Nvr S Nvr 10",
                 "product_description": "64CH Falcon Nvr 4K Series / 8SATA - S-NVR-10",
-                "product_picture": "products/2237.png",
+                "product_picture": "products/2237.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6021,7 +6021,7 @@
             {
                 "product_name": "Access Control S AC70 Id S B1CB",
                 "product_description": "Standalone Access Controller S-AC70-ID S-B1CB",
-                "product_picture": "products/2251.png",
+                "product_picture": "products/2251.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6042,7 +6042,7 @@
             {
                 "product_name": "Ahd 2MP Dome Camera S A D1",
                 "product_description": "Ahd 2MP Falcon Dome Camera S-A-D1",
-                "product_picture": "products/2259.png",
+                "product_picture": "products/2259.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6065,20 +6065,20 @@
     {
         "category_name": "Silicones And Foams",
         "description": null,
-        "picture": "categories/6968.png",
+        "picture": "categories/6968.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Pufoam Homey 750ML",
                 "product_description": null,
-                "product_picture": "products/6968.png",
+                "product_picture": "products/6968.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Wd 40",
                 "product_description": "WD-40 Made In United Kingdom 350ML",
-                "product_picture": "products/9078.png",
+                "product_picture": "products/9078.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -6087,20 +6087,20 @@
     {
         "category_name": "Sinks",
         "description": null,
-        "picture": "categories/3726.png",
+        "picture": "categories/3726.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Sink Dbsd 5FT 1500X500",
                 "product_description": "Dbsd 1500x500MM Insert Type Complete With Hooks+Rubber+Bottle Trap (5FT)",
-                "product_picture": "products/3726.png",
+                "product_picture": "products/3726.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Sink Oval Shaped Bowl Only 490X490",
                 "product_description": "Oval Shaped Bowl Only 490X490",
-                "product_picture": "products/3728.png",
+                "product_picture": "products/3728.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6142,7 +6142,7 @@
             {
                 "product_name": "Sink Sbsd",
                 "product_description": "Kitchen Sink Sbsd Watermaster \"Original\" Polished Surface 1000x500MM",
-                "product_picture": "products/3737.png",
+                "product_picture": "products/3737.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6156,7 +6156,7 @@
             {
                 "product_name": "Sink Dbdd 5FT 1500X500",
                 "product_description": "Dbdd 5FT White Painted Pecker 1500 X 500MM",
-                "product_picture": "products/3724.png",
+                "product_picture": "products/3724.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6186,216 +6186,216 @@
     {
         "category_name": "Stanley",
         "description": null,
-        "picture": "categories/6910.png",
+        "picture": "categories/6910.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Stanley Wood Chisel 12MM",
                 "product_description": null,
-                "product_picture": "products/6910.png",
+                "product_picture": "products/6910.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Wood Chisel 6MM",
                 "product_description": null,
-                "product_picture": "products/6911.png",
+                "product_picture": "products/6911.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Wood Chisel 10MM",
                 "product_description": null,
-                "product_picture": "products/6912.png",
+                "product_picture": "products/6912.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Wood Chisel 25MM",
                 "product_description": null,
-                "product_picture": "products/6913.png",
+                "product_picture": "products/6913.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Wood Chisel 18MM",
                 "product_description": null,
-                "product_picture": "products/6914.png",
+                "product_picture": "products/6914.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Ballpein Hammer 32OZ",
                 "product_description": null,
-                "product_picture": "products/6915.png",
+                "product_picture": "products/6915.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Sharpening System Kit",
                 "product_description": null,
-                "product_picture": "products/6916.png",
+                "product_picture": "products/6916.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley 10PC Hex Key Ring Set",
                 "product_description": null,
-                "product_picture": "products/6917.png",
+                "product_picture": "products/6917.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Multitool 12 In 1",
                 "product_description": null,
-                "product_picture": "products/6918.png",
+                "product_picture": "products/6918.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Stapler Pins Hd 8MM G",
                 "product_description": null,
-                "product_picture": "products/6919.png",
+                "product_picture": "products/6919.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Stapler Pins Hd 6MM G",
                 "product_description": null,
-                "product_picture": "products/6920.png",
+                "product_picture": "products/6920.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Staple Gun 6 In 1",
                 "product_description": null,
-                "product_picture": "products/6921.png",
+                "product_picture": "products/6921.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Adjustable Wrench 12",
                 "product_description": null,
-                "product_picture": "products/6922.png",
+                "product_picture": "products/6922.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Measuring Tape 20M",
                 "product_description": null,
-                "product_picture": "products/6923.png",
+                "product_picture": "products/6923.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Torque Wrench 20 100 Nm",
                 "product_description": null,
-                "product_picture": "products/6924.png",
+                "product_picture": "products/6924.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Torque Wrench 60 340 Nm",
                 "product_description": null,
-                "product_picture": "products/6925.png",
+                "product_picture": "products/6925.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Torque Wrench 40 200 Nm",
                 "product_description": null,
-                "product_picture": "products/6926.png",
+                "product_picture": "products/6926.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Torque Wrench 150 750 N",
                 "product_description": null,
-                "product_picture": "products/6927.png",
+                "product_picture": "products/6927.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Torque Wrench 10 50 Nm",
                 "product_description": null,
-                "product_picture": "products/6928.png",
+                "product_picture": "products/6928.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Mason Square",
                 "product_description": null,
-                "product_picture": "products/6929.png",
+                "product_picture": "products/6929.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Try Square 250 140MM",
                 "product_description": null,
-                "product_picture": "products/6930.png",
+                "product_picture": "products/6930.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley 10PC Hex Key Set",
                 "product_description": null,
-                "product_picture": "products/6931.png",
+                "product_picture": "products/6931.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Bench Plane No 4",
                 "product_description": null,
-                "product_picture": "products/6932.png",
+                "product_picture": "products/6932.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Measuring Tape 8M Power",
                 "product_description": null,
-                "product_picture": "products/6933.png",
+                "product_picture": "products/6933.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Measuring Tape 5M Power",
                 "product_description": null,
-                "product_picture": "products/6934.png",
+                "product_picture": "products/6934.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Measuring Tape 10M Powe",
                 "product_description": null,
-                "product_picture": "products/6935.png",
+                "product_picture": "products/6935.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Stapler Pins Hd 8MM A",
                 "product_description": null,
-                "product_picture": "products/6936.png",
+                "product_picture": "products/6936.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Stapler Pins Hd 10MM A",
                 "product_description": null,
-                "product_picture": "products/6937.png",
+                "product_picture": "products/6937.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Stapler Pins Hd 12MM A",
                 "product_description": null,
-                "product_picture": "products/6938.png",
+                "product_picture": "products/6938.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Stanley Vde Combination Plier 8",
                 "product_description": null,
-                "product_picture": "products/6939.png",
+                "product_picture": "products/6939.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -6404,13 +6404,13 @@
     {
         "category_name": "Taps",
         "description": null,
-        "picture": "categories/2242.png",
+        "picture": "categories/2242.jpg",
         "status": "active",
         "products": [
             {
                 "product_name": "Abs Deck Mounting Kf 2301",
                 "product_description": "Abs Deck Mounting KF-2301",
-                "product_picture": "products/2242.png",
+                "product_picture": "products/2242.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6424,7 +6424,7 @@
             {
                 "product_name": "Abs Overhead Shower Set",
                 "product_description": null,
-                "product_picture": "products/2245.png",
+                "product_picture": "products/2245.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6438,21 +6438,21 @@
             {
                 "product_name": "Abs Pillar Tap Lever Bf P9001",
                 "product_description": "Abs Sanitary Pillar Tap Lever Type White BF-P9001",
-                "product_picture": "products/2247.png",
+                "product_picture": "products/2247.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Abs Single Lever Bf 9001",
                 "product_description": "Abs Single Lever BF-9001",
-                "product_picture": "products/2249.png",
+                "product_picture": "products/2249.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Abs Wall Mounting Kf 4001",
                 "product_description": "Abs Wall Mounting KF-4001",
-                "product_picture": "products/2250.png",
+                "product_picture": "products/2250.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6473,7 +6473,7 @@
             {
                 "product_name": "Lockable Cock Hd Brass 3S4 Inch",
                 "product_description": "Lockable Cock Blue Handle Brass Heavy 3/4\"",
-                "product_picture": "products/3241.png",
+                "product_picture": "products/3241.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6501,7 +6501,7 @@
             {
                 "product_name": "Pillar Cock Auto Shut Green",
                 "product_description": "Pillar Cock Auto Shut (Green Box) Timer",
-                "product_picture": "products/3419.png",
+                "product_picture": "products/3419.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6592,14 +6592,14 @@
             {
                 "product_name": "Short Neck Plumber Green Star",
                 "product_description": null,
-                "product_picture": "products/3681.png",
+                "product_picture": "products/3681.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Short Neck Plumber Orange Knob",
                 "product_description": null,
-                "product_picture": "products/3682.png",
+                "product_picture": "products/3682.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6649,7 +6649,7 @@
             {
                 "product_name": "WGA1506 Air Spray Gun 600CC F C",
                 "product_description": null,
-                "product_picture": "products/5160.png",
+                "product_picture": "products/5160.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6691,7 +6691,7 @@
             {
                 "product_name": "WAG852401 Angle Grinder 9 Inch 2400W",
                 "product_description": null,
-                "product_picture": "products/5166.png",
+                "product_picture": "products/5166.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6726,7 +6726,7 @@
             {
                 "product_name": "WAB15401 Aspirator Blower 400W",
                 "product_description": null,
-                "product_picture": "products/5171.png",
+                "product_picture": "products/5171.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6768,14 +6768,14 @@
             {
                 "product_name": "WHM6306 AXE0 600G Wadfow",
                 "product_description": null,
-                "product_picture": "products/5177.png",
+                "product_picture": "products/5177.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "WHW1112 Backsaw 12 Inch Wadfow",
                 "product_description": null,
-                "product_picture": "products/5178.png",
+                "product_picture": "products/5178.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -6831,7 +6831,7 @@
             {
                 "product_name": "WSA1110 Combination Spanner 10M",
                 "product_description": null,
-                "product_picture": "products/5186.png",
+                "product_picture": "products/5186.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -7071,7 +7071,7 @@
             {
                 "product_name": "Brazing Rods",
                 "product_description": "Brazing Rods (25KGS/CARTON) Price Is Per Kg",
-                "product_picture": "products/2383.png",
+                "product_picture": "products/2383.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7099,7 +7099,7 @@
             {
                 "product_name": "Oxygen Regulator",
                 "product_description": null,
-                "product_picture": "products/3364.png",
+                "product_picture": "products/3364.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7120,7 +7120,7 @@
             {
                 "product_name": "Welding Holder China 300AMPS",
                 "product_description": "Welding Holder China 300AMPS Light",
-                "product_picture": "products/4021.png",
+                "product_picture": "products/4021.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7197,14 +7197,14 @@
             {
                 "product_name": "Welding Rod Ss E1124 2P5",
                 "product_description": "Welding Rod Stainless Steel E1124 2.5MM (E308L)",
-                "product_picture": "products/4049.png",
+                "product_picture": "products/4049.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Welding Rod Weldpus 3P2MM",
                 "product_description": "Welding Rod Weldpus 3.2MM",
-                "product_picture": "products/4051.png",
+                "product_picture": "products/4051.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7218,7 +7218,7 @@
             {
                 "product_name": "Welding Rods Steel E 106 3P2MM",
                 "product_description": "Welding Rods Steel E-106 3.2MM 5KG/PKT (20KGS/CTN)",
-                "product_picture": "products/4056.png",
+                "product_picture": "products/4056.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7239,35 +7239,35 @@
             {
                 "product_name": "Weldplus Welding Rods 3P2",
                 "product_description": "Weldplus Welding Rods 3.2MM (20KG/CTN)",
-                "product_picture": "products/6865.png",
+                "product_picture": "products/6865.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Welding Rod Fonweld Ss E1125",
                 "product_description": null,
-                "product_picture": "products/6909.png",
+                "product_picture": "products/6909.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Acetylene Gas Hose 3S8 Inch",
                 "product_description": null,
-                "product_picture": "products/7517.png",
+                "product_picture": "products/7517.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Oxygen Gas Hose 3S8 Inch",
                 "product_description": null,
-                "product_picture": "products/7518.png",
+                "product_picture": "products/7518.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Ioxygen Oxygen Regulator Single",
                 "product_description": null,
-                "product_picture": "products/7520.png",
+                "product_picture": "products/7520.jpg",
                 "status": "active",
                 "is_featured": false
             }
@@ -7310,77 +7310,77 @@
             {
                 "product_name": "Scaffolding Net Green Spidernet",
                 "product_description": null,
-                "product_picture": "products/4994.png",
+                "product_picture": "products/4994.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Scaffolding Net Shoshona",
                 "product_description": null,
-                "product_picture": "products/5390.png",
+                "product_picture": "products/5390.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh Green",
                 "product_description": "Poultry Cage Mesh 1MX25M Green",
-                "product_picture": "products/6879.png",
+                "product_picture": "products/6879.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh Blue",
                 "product_description": "Poultry Cage Mesh 1MX25M Blue",
-                "product_picture": "products/6880.png",
+                "product_picture": "products/6880.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh Grey",
                 "product_description": "Poultry Cage Mesh 1MX25M Grey",
-                "product_picture": "products/6881.png",
+                "product_picture": "products/6881.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "General Purpose Mesh Dark Green",
                 "product_description": "General Purpose Mesh Dark Green 1MX25M",
-                "product_picture": "products/6890.png",
+                "product_picture": "products/6890.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh Grey 50M",
                 "product_description": null,
-                "product_picture": "products/6902.png",
+                "product_picture": "products/6902.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Coffee Tray Wire Unsoldered",
                 "product_description": null,
-                "product_picture": "products/7522.png",
+                "product_picture": "products/7522.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Scaffolding Net Kromm 10KG D Gr",
                 "product_description": null,
-                "product_picture": "products/7523.png",
+                "product_picture": "products/7523.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "General Purpose Mesh Green Light",
                 "product_description": null,
-                "product_picture": "products/8809.png",
+                "product_picture": "products/8809.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Chicken Wire",
                 "product_description": "Chicken Wire 3/4*6",
-                "product_picture": "products/2437.png",
+                "product_picture": "products/2437.jpg",
                 "status": "active",
                 "is_featured": false
             },
@@ -7394,28 +7394,28 @@
             {
                 "product_name": "Fibreglass Wire Netting",
                 "product_description": null,
-                "product_picture": "products/5002.png",
+                "product_picture": "products/5002.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh Poa",
                 "product_description": null,
-                "product_picture": "products/6900.png",
+                "product_picture": "products/6900.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Poultry Cage Mesh 50M",
                 "product_description": null,
-                "product_picture": "products/6901.png",
+                "product_picture": "products/6901.jpg",
                 "status": "active",
                 "is_featured": false
             },
             {
                 "product_name": "Insect Screen Mesh",
                 "product_description": null,
-                "product_picture": "products/6966.png",
+                "product_picture": "products/6966.jpg",
                 "status": "active",
                 "is_featured": false
             }

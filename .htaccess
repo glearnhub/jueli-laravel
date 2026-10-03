@@ -1,0 +1,8 @@
+# Fallback for hosts whose document root cannot be pointed at /public (e.g. some cPanel plans).
+# Preferred setup: set the document root to the "public" folder and ignore this file.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ public/ [L]
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>

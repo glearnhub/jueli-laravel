@@ -17,6 +17,7 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\SeoController;
 use App\Http\Controllers\ServicePageController;
 use App\Http\Controllers\ShopController;
 use App\Http\Middleware\TrackPageView;
@@ -32,6 +33,9 @@ Route::middleware(TrackPageView::class)->group(function () {
     Route::get('/contact', [ContactController::class, 'index'])->name('contact');
     Route::post('/contact', [ContactController::class, 'store'])->middleware('throttle:5,1')->name('contact.store');
 });
+
+Route::get('/robots.txt', [SeoController::class, 'robots']);
+Route::get('/sitemap.xml', [SeoController::class, 'sitemap']);
 
 // Admin
 Route::prefix('admin')->name('admin.')->group(function () {

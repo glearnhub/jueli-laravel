@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Support\SiteSettings;
 use Illuminate\Database\Eloquent\Model;
 
 class Setting extends Model
@@ -19,5 +20,6 @@ class Setting extends Model
     public static function set(string $key, ?string $value): void
     {
         static::query()->updateOrCreate(['key' => $key], ['value' => $value]);
+        SiteSettings::forget();
     }
 }

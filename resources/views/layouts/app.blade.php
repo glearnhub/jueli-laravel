@@ -5,6 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Jueli Engineering Ltd')</title>
+    @php
+        $metaDescription = trim($__env->yieldContent('meta_description')) ?: 'Jueli Engineering Ltd - mechanical engineering, steel fabrication, HVAC, plumbing and industrial supplies in Nairobi, Kenya.';
+        $metaImage = trim($__env->yieldContent('meta_image')) ?: asset('img/logo.png');
+        $canonical = trim($__env->yieldContent('canonical')) ?: url()->current();
+    @endphp
+    <meta name="description" content="{{ $metaDescription }}">
+    <link rel="canonical" href="{{ $canonical }}">
+    <meta property="og:site_name" content="{{ $site->name() }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ trim($__env->yieldContent('title')) ?: $site->name() }}">
+    <meta property="og:description" content="{{ $metaDescription }}">
+    <meta property="og:url" content="{{ $canonical }}">
+    <meta property="og:image" content="{{ $metaImage }}">
+    <meta name="twitter:card" content="summary_large_image">
 
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}">

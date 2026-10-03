@@ -65,6 +65,12 @@ return [
     |
     */
 
+    /*
+    | Reverse proxies (Cloudflare, load balancers) whose X-Forwarded-* headers are trusted.
+    | Leave empty on plain shared hosting; set TRUSTED_PROXIES=* only behind a proxy you control.
+    */
+    'trusted_proxies' => env('TRUSTED_PROXIES'),
+
     'timezone' => 'UTC',
 
     /*

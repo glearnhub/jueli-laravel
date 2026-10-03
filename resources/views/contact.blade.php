@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Contact Us - Jueli Engineering Ltd')
+@section('meta_description', 'Contact Jueli Engineering Ltd in Nairobi Industrial Area for quotes, product enquiries and engineering services.')
 
 @section('content')
     @include('partials.page-hero', ['hero' => $hero, 'fallbackTitle' => 'Contact Us'])
@@ -16,21 +17,21 @@
                             <i class="fas fa-map-marker-alt"></i>
                             <div>
                                 <p><strong>Address:</strong></p>
-                                <p>15976-00100, Nairobi Industrial Area, Kenya</p>
+                                <p>{{ $site->address() }}</p>
                             </div>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone-alt"></i>
                             <div>
                                 <p><strong>Phone:</strong></p>
-                                <p>+254 704 553 400</p>
+                                <p>{{ $site->phone() }}</p>
                             </div>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
                             <div>
                                 <p><strong>Email:</strong></p>
-                                <p>info@jueliengineeringltd.co.ke</p>
+                                <p>{{ $site->email() }}</p>
                                 <p>eliud@juelienginerring.co.ke</p>
                                 <p>judy@jueliengineering.co.ke</p>
                             </div>

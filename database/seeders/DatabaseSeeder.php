@@ -10,6 +10,7 @@ use App\Models\Role;
 use App\Models\Setting;
 use App\Models\User;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Str;
 
 class DatabaseSeeder extends Seeder
 {
@@ -19,14 +20,7 @@ class DatabaseSeeder extends Seeder
         $this->call(ServicesSeeder::class);
         $this->call(PageHeroSeeder::class);
 
-        $superAdminRole = Role::where('slug', 'super-admin')->first();
-
-        User::create([
-            'name' => 'Admin',
-            'email' => 'admin@jueli.test',
-            'password' => 'password',
-            'role_id' => $superAdminRole->id,
-        ]);
+        $this->createAdmin(Role::where('slug', 'super-admin')->firstOrFail());
 
         $settings = [
             'site_name' => 'Jueli Engineering Ltd',
@@ -40,9 +34,36 @@ class DatabaseSeeder extends Seeder
         ];
 
         foreach ($settings as $key => $value) {
-            Setting::create(['key' => $key, 'value' => $value]);
+            Setting::firstOrCreate(['key' => $key], ['value' => $value]);
         }
 
+        $this->call(CatalogSeeder::class);
+
+        // Placeholder team members, demo products and sample enquiries are for local development only.
+        if (! app()->isProduction()) {
+            $this->seedDemoContent();
+        }
+    }
+
+    private function createAdmin(Role $role): void
+    {
+        $email = config('jueli.admin_email');
+        $generated = ! config('jueli.admin_password') && app()->isProduction();
+        $password = config('jueli.admin_password') ?: ($generated ? Str::password(16, symbols: false) : 'password');
+
+        User::updateOrCreate(
+            ['email' => $email],
+            ['name' => config('jueli.admin_name'), 'password' => $password, 'role_id' => $role->id],
+        );
+
+        if ($generated) {
+            $this->command?->warn("Admin account created - email: {$email}  password: {$password}");
+            $this->command?->warn('Save this password now; it is not shown again. Change it after your first login.');
+        }
+    }
+
+    private function seedDemoContent(): void
+    {
         $mechanical = ProductCategory::create([
             'category_name' => 'Mechanical & Cutting Tools',
             'description' => 'Cutting tools, sprinklers, and general mechanical equipment for industrial and commercial use.',
@@ -50,8 +71,7 @@ class DatabaseSeeder extends Seeder
             'status' => 'active',
         ]);
 
-        $agricultural = ProductCategory::create([
-            'category_name' => 'Agricultural Implements',
+        $agricultural = ProductCategory::firstOrCreate(['category_name' => 'Agricultural Implements'], [
             'description' => 'Hand tools and implements for farm, garden, and landscaping work.',
             'picture' => 'categories/agricultural.jpg',
             'status' => 'active',
@@ -95,8 +115,6 @@ class DatabaseSeeder extends Seeder
         foreach ($leaders as $leader) {
             Leader::create($leader);
         }
-
-        $this->call(CatalogSeeder::class);
 
         ContactMessage::create([
             'name' => 'John Doe',

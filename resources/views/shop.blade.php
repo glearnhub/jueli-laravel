@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Shop - Jueli Engineering Ltd')
+@section('title', ($currentCategoryId ? $categories->firstWhere('id', $currentCategoryId)?->category_name.' - ' : '').'Shop - Jueli Engineering Ltd')
+@section('meta_description', 'Browse tools, hardware, plumbing, electrical and building supplies'.($currentCategoryId ? ' in '.$categories->firstWhere('id', $currentCategoryId)?->category_name : '').' from Jueli Engineering Ltd, Nairobi.')
+@section('canonical', url()->full())
 
 @push('styles')
     <style>

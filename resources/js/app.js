@@ -122,6 +122,6 @@ function initProductModal() {
 
         const whatsappBtn = document.getElementById('whatsappInquiry');
         const message = `Hello JUELI ENGINEERING, I'm interested in your ${name} (${category}) product. Could you please share the price and details?`;
-        whatsappBtn.href = `https://wa.me/254704553400?text=${encodeURIComponent(message)}`;
+        whatsappBtn.href = `https://wa.me/${productModal.dataset.whatsapp}?text=${encodeURIComponent(message)}`;
     });
 }
