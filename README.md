@@ -36,6 +36,8 @@ php artisan storage:link
 php artisan serve
 ```
 
+`migrate --seed` also loads the product catalog (about 1,000 products in 47 categories) from `database/data/catalog.json` via `CatalogSeeder`. The photos are committed under `storage/app/public`, so `php artisan storage:link` is all they need. To load or refresh only the catalog later (existing rows are never duplicated): `php artisan db:seed --class=CatalogSeeder`.
+
 Visit `http://127.0.0.1:8000` for the public site and `http://127.0.0.1:8000/admin/` for the admin login.
 
 The seeder creates a demo Super Admin account (`admin@jueli.test` / `password`) — **change this immediately** in any non-local environment.

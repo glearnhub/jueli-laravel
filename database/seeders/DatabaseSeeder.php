@@ -96,6 +96,8 @@ class DatabaseSeeder extends Seeder
             Leader::create($leader);
         }
 
+        $this->call(CatalogSeeder::class);
+
         ContactMessage::create([
             'name' => 'John Doe',
             'email' => 'john.doe@example.com',
