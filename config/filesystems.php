@@ -40,7 +40,9 @@ return [
 
         'public' => [
             'driver' => 'local',
-            'root' => storage_path('app/public'),
+            // Hosts without SSH/symlinks: set STORAGE_IN_PUBLIC=true to keep uploads directly in public/storage
+            // (no `storage:link` needed). Default keeps them in storage/app/public.
+            'root' => env('STORAGE_IN_PUBLIC', false) ? public_path('storage') : storage_path('app/public'),
             'url' => rtrim(env('APP_URL', 'http://localhost'), '/').'/storage',
             'visibility' => 'public',
             'throw' => false,
