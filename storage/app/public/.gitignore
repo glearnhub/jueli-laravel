@@ -1,2 +1,10 @@
 *
 !.gitignore
+!categories/
+!categories/**
+!leaders/
+!leaders/**
+!products/
+!products/**
+!services/
+!services/**
