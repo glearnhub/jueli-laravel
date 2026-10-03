@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="card">
-        <div class="card-header d-flex justify-content-between align-items-center bg-dark text-white">
+        <div class="card-header d-flex justify-content-between align-items-center flex-wrap gap-2 bg-dark text-white">
             <strong>Roles & Permissions</strong>
             <a href="{{ route('admin.roles.create') }}" class="btn btn-primary btn-sm">Add New Role</a>
         </div>

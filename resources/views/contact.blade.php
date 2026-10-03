@@ -3,9 +3,7 @@
 @section('title', 'Contact Us - Jueli Engineering Ltd')
 
 @section('content')
-    <section class="hero-section">
-        <div class="container"></div>
-    </section>
+    @include('partials.page-hero', ['hero' => $hero, 'fallbackTitle' => 'Contact Us'])
 
     <section class="contact-section" id="contact">
         <div class="container">
@@ -56,19 +54,19 @@
 
                     <form method="POST" action="{{ route('contact.store') }}">
                         @csrf
-                        <input type="text" name="name" placeholder="Your Name" value="{{ old('name') }}" required>
+                        <input type="text" name="name" placeholder="Your Name" aria-label="Your name" autocomplete="name" maxlength="255" value="{{ old('name') }}" required>
                         @error('name')
                             <small class="text-danger d-block mb-2">{{ $message }}</small>
                         @enderror
 
-                        <input type="email" name="email" placeholder="Your Email" value="{{ old('email') }}" required>
+                        <input type="email" name="email" placeholder="Your Email" aria-label="Your email" autocomplete="email" maxlength="255" value="{{ old('email') }}" required>
                         @error('email')
                             <small class="text-danger d-block mb-2">{{ $message }}</small>
                         @enderror
 
-                        <input type="text" name="subject" placeholder="Subject" value="{{ old('subject') }}">
+                        <input type="text" name="subject" placeholder="Subject" aria-label="Subject" maxlength="255" value="{{ old('subject') }}">
 
-                        <textarea name="message" placeholder="Your Message" required>{{ old('message') }}</textarea>
+                        <textarea name="message" placeholder="Your Message" aria-label="Your message" maxlength="5000" required>{{ old('message') }}</textarea>
                         @error('message')
                             <small class="text-danger d-block mb-2">{{ $message }}</small>
                         @enderror

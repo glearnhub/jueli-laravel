@@ -3,6 +3,8 @@
 @section('title', 'Jueli Engineering Ltd')
 
 @section('content')
+    <h1 class="visually-hidden">Jueli Engineering Ltd - engineering products and services in Nairobi, Kenya</h1>
+
     <section class="hero-slider">
         <div class="slide active" style="background-image: url('{{ asset('img/bg_2.jpg') }}');">
             <div class="slide-content">
@@ -35,22 +37,46 @@
                 <div class="category-slider">
                     @foreach ($categories as $category)
                         <div class="category-slide">
-                            <div class="category-card">
+                            <a class="category-card" href="{{ route('shop', ['category' => $category->id]) }}"
+                                aria-label="Browse {{ $category->category_name }} products">
                                 <div class="category-img">
-                                    <img src="{{ $category->picture ? asset('storage/' . $category->picture) : asset('img/logo_2.png') }}"
+                                    <img src="{{ $category->picture ? asset('storage/' . $category->picture) : asset('img/favicon.png') }}"
                                         alt="{{ $category->category_name }}">
                                 </div>
                                 <h3>{{ $category->category_name }}</h3>
-                            </div>
+                            </a>
                         </div>
                     @endforeach
                 </div>
 
                 <div class="slider-nav">
-                    <button class="slider-prev"><i class="fas fa-chevron-left"></i></button>
-                    <button class="slider-next"><i class="fas fa-chevron-right"></i></button>
+                    <button type="button" class="slider-prev" aria-label="Previous categories"><i class="fas fa-chevron-left"></i></button>
+                    <button type="button" class="slider-next" aria-label="Next categories"><i class="fas fa-chevron-right"></i></button>
                 </div>
             @endif
         </div>
     </section>
+
+    <section class="featured-products-section" id="featured">
+        <div class="container">
+            <h2 class="section-title">Featured Products</h2>
+
+            @if ($featuredProducts->isEmpty())
+                <div class="notice">No featured products yet.</div>
+            @else
+                <div class="row">
+                    @foreach ($featuredProducts as $product)
+                        <div class="col-6 col-md-4 col-lg-3 mb-4">
+                            @include('partials.product-card', ['product' => $product])
+                        </div>
+                    @endforeach
+                </div>
+                <div class="text-center mt-2">
+                    <a href="{{ route('shop') }}" class="btn btn-primary">View all products</a>
+                </div>
+            @endif
+        </div>
+    </section>
+
+    @include('partials.product-modal')
 @endsection

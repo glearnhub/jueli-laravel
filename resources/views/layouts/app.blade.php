@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Jueli Engineering Ltd')</title>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/logo_2.png') }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/logo_2.png') }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo_2.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicon.png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}">
     <meta name="theme-color" content="#003366">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">

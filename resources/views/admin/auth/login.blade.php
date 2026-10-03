@@ -5,17 +5,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Login - Jueli Engineering Ltd</title>
-    <link rel="icon" type="image/png" href="{{ asset('img/logo_2.png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
             min-height: 100vh;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
+            padding: 24px 0;
             background: linear-gradient(rgba(0, 51, 102, 0.85), rgba(0, 51, 102, 0.85)), url('{{ asset('img/bg_2.jpg') }}');
             background-position: center;
             background-size: cover;
+        }
+
+        .login-logo {
+            width: 200px;
+            max-width: 60vw;
+            height: auto;
+            margin-bottom: 20px;
         }
 
         .login-card {
@@ -48,8 +57,10 @@
 </head>
 
 <body>
+    <img src="{{ asset('img/logo.png') }}" alt="Jueli Engineering Ltd" class="login-logo" width="484" height="197">
+
     <div class="login-card">
-        <h1>JUELI ENGINEERING LTD</h1>
+        <h1>Administration Panel</h1>
 
         @if ($errors->any())
             <div class="alert alert-danger">

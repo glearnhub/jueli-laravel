@@ -1,7 +1,9 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #003366;">
         <div class="container">
-            <a class="navbar-brand logo" href="{{ route('home') }}">JUELI <span>ENGINEERING LTD</span></a>
+            <a class="navbar-brand brand-logo" href="{{ route('home') }}" aria-label="Jueli Engineering Ltd - Home">
+                <img src="{{ asset('img/logo.png') }}" alt="Jueli Engineering Ltd" width="484" height="197">
+            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

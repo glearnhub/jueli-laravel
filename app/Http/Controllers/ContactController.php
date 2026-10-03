@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\StoreContactMessageRequest;
 use App\Models\ContactMessage;
+use App\Models\PageHero;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\View\View;
 
@@ -11,7 +12,7 @@ class ContactController extends Controller
 {
     public function index(): View
     {
-        return view('contact');
+        return view('contact', ['hero' => PageHero::forPage('contact')]);
     }
 
     public function store(StoreContactMessageRequest $request): RedirectResponse

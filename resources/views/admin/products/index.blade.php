@@ -10,7 +10,7 @@
             <form method="GET" class="row gy-2 gx-2 align-items-end">
                 <div class="col-auto">
                     <label class="form-label small mb-1">Filter by Category</label>
-                    <select class="form-select form-select-sm" name="category_id">
+                    <select class="form-select form-select-sm" name="category_id" aria-label="Filter by category">
                         <option value="">All Categories</option>
                         @foreach ($categories as $category)
                             <option value="{{ $category->id }}" @selected(request('category_id') == $category->id)>
@@ -21,7 +21,7 @@
                 </div>
                 <div class="col-auto">
                     <label class="form-label small mb-1">Search</label>
-                    <input type="text" class="form-control form-control-sm" name="search" placeholder="Product name..."
+                    <input type="text" class="form-control form-control-sm" name="search" aria-label="Search" placeholder="Product name..."
                         value="{{ request('search') }}">
                 </div>
                 @include('admin.partials.status-date-filter')
@@ -77,7 +77,7 @@
                                 </td>
                                 <td>{{ $product->category?->category_name }}</td>
                                 <td>{{ $product->product_name }}</td>
-                                <td>{{ $product->price !== null ? 'KES '.number_format($product->price, 2) : '—' }}</td>
+                                <td>{{ $product->price !== null ? 'KES '.number_format($product->price, 2) : 'â€”' }}</td>
                                 <td>@include('admin.partials.status-badge', ['status' => $product->status])</td>
                                 <td>
                                     <span class="badge {{ $product->is_featured ? 'badge-featured' : 'badge-inactive' }}">

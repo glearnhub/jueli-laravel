@@ -16,6 +16,8 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this->call(RolePermissionSeeder::class);
+        $this->call(ServicesSeeder::class);
+        $this->call(PageHeroSeeder::class);
 
         $superAdminRole = Role::where('slug', 'super-admin')->first();
 

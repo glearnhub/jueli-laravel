@@ -39,3 +39,21 @@ php artisan serve
 Visit `http://127.0.0.1:8000` for the public site and `http://127.0.0.1:8000/admin/` for the admin login.
 
 The seeder creates a demo Super Admin account (`admin@jueli.test` / `password`) — **change this immediately** in any non-local environment.
+
+## Running the tests
+
+```bash
+php artisan test
+```
+
+The suite uses an in-memory SQLite database, so it never touches your MySQL data.
+
+## Deploying to production (e.g. cPanel)
+
+1. Set the web root (document root) to the project's `public/` folder.
+2. `composer install --no-dev --optimize-autoloader`
+3. Build assets (`npm run build`) locally and upload `public/build/`, or run it on the server if Node is available.
+4. Copy `.env.example` to `.env`, then set `APP_ENV=production`, `APP_DEBUG=false`, `APP_URL`, and the `DB_*` credentials.
+5. `php artisan key:generate`, `php artisan migrate --force`, `php artisan storage:link`
+6. `php artisan config:cache route:cache view:cache`
+7. Log in to `/admin/` and change the demo Super Admin password straight away.

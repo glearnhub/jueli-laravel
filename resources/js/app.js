@@ -4,7 +4,21 @@ document.addEventListener('DOMContentLoaded', () => {
     initHeroSlider();
     initHorizontalSliders();
     initProductModal();
+    initServiceGallery();
 });
+
+function initServiceGallery() {
+    const mainImage = document.getElementById('serviceMainImage');
+    const thumbs = document.querySelectorAll('.service-thumb');
+    if (!mainImage || !thumbs.length) return;
+
+    thumbs.forEach((thumb) => {
+        thumb.addEventListener('click', () => {
+            mainImage.src = thumb.dataset.full;
+            thumbs.forEach((other) => other.classList.toggle('active', other === thumb));
+        });
+    });
+}
 
 function initHeroSlider() {
     const heroSlider = document.querySelector('.hero-slider');
@@ -21,6 +35,8 @@ function initHeroSlider() {
 
     slides.forEach((slide, index) => {
         const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.setAttribute('aria-label', `Show slide ${index + 1}`);
         dot.addEventListener('click', () => goToSlide(index));
         navContainer.appendChild(dot);
     });
@@ -51,18 +67,17 @@ function initHorizontalSliders() {
             prevBtn: document.querySelector('#categorySlider .slider-prev'),
             nextBtn: document.querySelector('#categorySlider .slider-next'),
         },
-        {
-            slider: document.querySelector('.services-slider'),
-            prevBtn: document.querySelector('.services-slider-section .slider-prev'),
-            nextBtn: document.querySelector('.services-slider-section .slider-next'),
-        },
     ];
 
     sliders.forEach(({ slider, prevBtn, nextBtn }) => {
         if (!slider || !prevBtn || !nextBtn) return;
 
-        const firstSlide = slider.querySelector('.category-slide') || slider.querySelector('.services-slide');
-        const slideWidth = firstSlide ? firstSlide.offsetWidth + 20 : 300;
+        // Scroll by however many cards are actually visible, so small screens step one card at a time.
+        function stepSize() {
+            const firstSlide = slider.querySelector('.category-slide');
+            const slideWidth = firstSlide ? firstSlide.offsetWidth + 20 : 300;
+            return slideWidth * Math.max(1, Math.floor(slider.clientWidth / slideWidth));
+        }
 
         function updateButtons() {
             prevBtn.classList.toggle('disabled', slider.scrollLeft <= 10);
@@ -74,12 +89,12 @@ function initHorizontalSliders() {
         }
 
         prevBtn.addEventListener('click', () => {
-            scrollToPosition(Math.max(slider.scrollLeft - slideWidth * 3, 0));
+            scrollToPosition(Math.max(slider.scrollLeft - stepSize(), 0));
         });
 
         nextBtn.addEventListener('click', () => {
             const maxScroll = slider.scrollWidth - slider.clientWidth;
-            scrollToPosition(Math.min(slider.scrollLeft + slideWidth * 3, maxScroll));
+            scrollToPosition(Math.min(slider.scrollLeft + stepSize(), maxScroll));
         });
 
         slider.addEventListener('scroll', updateButtons);

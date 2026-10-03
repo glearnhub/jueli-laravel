@@ -3,12 +3,7 @@
 @section('title', 'About Us - Jueli Engineering Ltd')
 
 @section('content')
-    <section class="hero-section">
-        <div class="container">
-            <h1 class="display-4 fw-bold">Quality Engineering Products</h1>
-            <p class="lead">Premium engineering supplies and equipment for all your project needs</p>
-        </div>
-    </section>
+    @include('partials.page-hero', ['hero' => $hero, 'fallbackTitle' => 'About Us'])
 
     <section class="about-section">
         <div class="container">

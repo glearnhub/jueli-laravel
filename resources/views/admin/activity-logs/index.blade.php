@@ -10,7 +10,7 @@
             <form method="GET" class="row gy-2 gx-2 align-items-end">
                 <div class="col-auto">
                     <label class="form-label small mb-1">User</label>
-                    <select class="form-select form-select-sm" name="user_id">
+                    <select class="form-select form-select-sm" name="user_id" aria-label="Filter by user">
                         <option value="">All Users</option>
                         @foreach ($users as $user)
                             <option value="{{ $user->id }}" @selected(request('user_id') == $user->id)>{{ $user->name }}</option>
@@ -19,7 +19,7 @@
                 </div>
                 <div class="col-auto">
                     <label class="form-label small mb-1">Action</label>
-                    <select class="form-select form-select-sm" name="action">
+                    <select class="form-select form-select-sm" name="action" aria-label="Filter by action">
                         <option value="">All Actions</option>
                         <option value="created" @selected(request('action') === 'created')>Created</option>
                         <option value="updated" @selected(request('action') === 'updated')>Updated</option>
@@ -28,11 +28,11 @@
                 </div>
                 <div class="col-auto">
                     <label class="form-label small mb-1">From</label>
-                    <input type="date" class="form-control form-control-sm" name="date_from" value="{{ request('date_from') }}">
+                    <input type="date" class="form-control form-control-sm" name="date_from" aria-label="From date" value="{{ request('date_from') }}">
                 </div>
                 <div class="col-auto">
                     <label class="form-label small mb-1">To</label>
-                    <input type="date" class="form-control form-control-sm" name="date_to" value="{{ request('date_to') }}">
+                    <input type="date" class="form-control form-control-sm" name="date_to" aria-label="To date" value="{{ request('date_to') }}">
                 </div>
                 <div class="col-auto">
                     <button type="submit" class="btn btn-dark btn-sm"><i class="bi bi-funnel"></i> Apply</button>
@@ -43,7 +43,7 @@
     </div>
 
     <div class="card">
-        <div class="card-header d-flex justify-content-between align-items-center bg-dark text-white">
+        <div class="card-header d-flex justify-content-between align-items-center flex-wrap gap-2 bg-dark text-white">
             <strong>Activity Logs</strong>
             @include('admin.partials.export-buttons', ['exportRouteName' => 'admin.activity-logs.export'])
         </div>

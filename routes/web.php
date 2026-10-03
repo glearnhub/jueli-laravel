@@ -4,16 +4,20 @@ use App\Http\Controllers\Admin\ActivityLogController;
 use App\Http\Controllers\Admin\ContactMessageController;
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\LeaderController;
+use App\Http\Controllers\Admin\PageHeroController;
 use App\Http\Controllers\Admin\PasswordController;
 use App\Http\Controllers\Admin\ProductCategoryController;
 use App\Http\Controllers\Admin\ProductController;
 use App\Http\Controllers\Admin\RoleController;
+use App\Http\Controllers\Admin\ServiceController;
+use App\Http\Controllers\Admin\ServiceHeroSlideController;
 use App\Http\Controllers\Admin\SettingController;
 use App\Http\Controllers\Admin\UserController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ServicePageController;
 use App\Http\Controllers\ShopController;
 use App\Http\Middleware\TrackPageView;
 use Illuminate\Support\Facades\Route;
@@ -22,17 +26,18 @@ use Illuminate\Support\Facades\Route;
 Route::middleware(TrackPageView::class)->group(function () {
     Route::get('/', [HomeController::class, 'index'])->name('home');
     Route::get('/about', [AboutController::class, 'index'])->name('about');
-    Route::view('/services', 'services')->name('services');
+    Route::get('/services', [ServicePageController::class, 'index'])->name('services');
+    Route::get('/services/{service:slug}', [ServicePageController::class, 'show'])->name('services.show');
     Route::get('/shop', [ShopController::class, 'index'])->name('shop');
     Route::get('/contact', [ContactController::class, 'index'])->name('contact');
-    Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
+    Route::post('/contact', [ContactController::class, 'store'])->middleware('throttle:5,1')->name('contact.store');
 });
 
 // Admin
 Route::prefix('admin')->name('admin.')->group(function () {
     Route::middleware('guest')->group(function () {
         Route::get('/', [LoginController::class, 'create'])->name('login');
-        Route::post('/', [LoginController::class, 'store'])->name('login.store');
+        Route::post('/', [LoginController::class, 'store'])->middleware('throttle:10,1')->name('login.store');
     });
 
     Route::middleware('auth')->group(function () {
@@ -47,6 +52,20 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::middleware('permission:categories.view')->group(function () {
             Route::get('categories/export', [ProductCategoryController::class, 'export'])->name('categories.export');
             Route::resource('categories', ProductCategoryController::class)->except('show');
+        });
+
+        Route::middleware('permission:services.view')->group(function () {
+            Route::get('services/export', [ServiceController::class, 'export'])->name('services.export');
+            Route::resource('services', ServiceController::class)->except('show');
+            Route::resource('hero-slides', ServiceHeroSlideController::class)
+                ->parameters(['hero-slides' => 'slide'])
+                ->except('show');
+        });
+
+        Route::middleware('permission:pages.view')->group(function () {
+            Route::resource('page-heroes', PageHeroController::class)
+                ->parameters(['page-heroes' => 'hero'])
+                ->only(['index', 'edit', 'update']);
         });
 
         Route::middleware('permission:leaders.view')->group(function () {

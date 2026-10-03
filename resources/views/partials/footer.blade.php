@@ -2,14 +2,16 @@
     <div class="container">
         <div class="footer-container">
             <div class="footer-col">
-                <h3>JUELI ENGINEERING LTD</h3>
+                <a href="{{ route('home') }}" class="footer-logo" aria-label="Jueli Engineering Ltd - Home">
+                    <img src="{{ asset('img/logo.png') }}" alt="Jueli Engineering Ltd" width="484" height="197">
+                </a>
                 <p>Engineering Solutions for a Sustainable Future. Providing innovative, cost-efficient, and
                     high-quality engineering services across multiple sectors.</p>
                 <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                    <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div class="footer-col">
@@ -25,11 +27,11 @@
             <div class="footer-col">
                 <h3>Our Services</h3>
                 <ul>
-                    <li><a href="{{ route('services') }}">Mechanical Services</a></li>
-                    <li><a href="{{ route('services') }}">Steel Fabrication</a></li>
-                    <li><a href="{{ route('services') }}">HVAC Systems</a></li>
-                    <li><a href="{{ route('services') }}">Plumbing & Piping</a></li>
-                    <li><a href="{{ route('services') }}">Lift Installation</a></li>
+                    @forelse ($footerServices as $footerService)
+                        <li><a href="{{ route('services.show', $footerService) }}">{{ $footerService->title }}</a></li>
+                    @empty
+                        <li><a href="{{ route('services') }}">View all services</a></li>
+                    @endforelse
                 </ul>
             </div>
             <div class="footer-col">
@@ -48,6 +50,6 @@
 </footer>
 
 <a href="https://wa.me/254704553400?text=Hello%20JUELI%20ENGINEERING%20LTD,%20I%20have%20an%20inquiry%20about%20your%20products"
-    class="whatsapp-btn" target="_blank">
-    <i class="fab fa-whatsapp fa-lg"></i>
+    class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
 </a>

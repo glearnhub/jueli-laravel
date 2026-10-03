@@ -239,14 +239,28 @@ a {
 
 .product-img {
   height: 200px;
-  object-fit: cover;
   overflow: hidden;
+  background: #fff;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
 }
 
 .product-img img {
   width: 100%;
   height: 100%;
+  object-fit: contain;
   transition: transform 0.5s;
+}
+
+.product-card .card-title {
+  color: var(--primary-color);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.featured-products-section {
+  padding: 60px 0;
+  background: #fff;
 }
 
 .product-card:hover .product-img img {
@@ -491,13 +505,15 @@ footer {
 }
 
 .footer-col ul li {
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 .footer-col ul li a {
   color: #ddd;
   text-decoration: none;
   transition: color 0.3s;
+  display: inline-block;
+  padding: 6px 0;
 }
 
 .footer-col ul li a:hover {
@@ -513,6 +529,15 @@ footer {
   color: white;
   font-size: 20px;
   transition: color 0.3s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  min-height: 40px;
+}
+
+footer p {
+  color: #ddd;
 }
 
 .social-links a:hover {
@@ -700,6 +725,8 @@ footer {
 }
 
 .category-card {
+  text-decoration: none;
+  color: inherit;
   background: white;
   border-radius: 8px;
   overflow: hidden;
@@ -717,15 +744,23 @@ footer {
 }
 
 .category-img {
-  height: 100px;
+  height: 130px;
   overflow: hidden;
+  background: #fff;
+  padding: 8px;
 }
 
+/* contain (not cover) so the whole product photo is always visible */
 .category-img img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   transition: transform 0.5s;
+}
+
+.category-card:focus-visible {
+  outline: 3px solid var(--accent-color);
+  outline-offset: 2px;
 }
 
 .category-card:hover .category-img img {
@@ -784,7 +819,7 @@ footer {
   }
 
   .category-img {
-    height: 120px;
+    height: 140px;
   }
 }
 
@@ -925,4 +960,122 @@ footer {
   padding: 8px 16px;
   border-radius: 4px;
   cursor: pointer;
+}
+
+/* Hero slider dots: small visually, but a comfortable touch target. */
+.hero-slider > .slider-nav {
+  position: absolute;
+  bottom: 14px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  gap: 4px;
+}
+
+.hero-slider > .slider-nav button {
+  position: relative;
+  width: 36px;
+  height: 14px;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.55);
+  background-clip: content-box;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  height: 18px;
+}
+
+.hero-slider > .slider-nav button.active {
+  background-color: #fff;
+  background-clip: content-box;
+}
+
+.hero-slider > .slider-nav button::after {
+  content: '';
+  position: absolute;
+  inset: -12px -2px;
+}
+
+@media (max-width: 575.98px) {
+  .slide-content {
+    left: 16px;
+    right: 16px;
+    bottom: 44px;
+    padding: 14px;
+    max-width: none;
+  }
+
+  .hero-section h1,
+  .slide-content h2 {
+    font-size: 1.75rem;
+  }
+}
+/* ===== Floating WhatsApp button ===== */
+.whatsapp-float {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 1050;
+  width: 58px;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #25D366;
+  color: #fff;
+  font-size: 32px;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.whatsapp-float:hover {
+  color: #fff;
+  transform: scale(1.08);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+@media (max-width: 576px) {
+  .whatsapp-float {
+    right: 16px;
+    bottom: 16px;
+    width: 52px;
+    height: 52px;
+    font-size: 28px;
+  }
+}
+
+/* Page banner subtitle: the generic paragraph colour is too dark on the dark overlay. */
+.hero-section p {
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+/* ===== Logo ===== */
+.navbar-brand.brand-logo {
+  padding: 4px 0;
+  margin-right: 1.5rem;
+}
+
+.navbar-brand.brand-logo img {
+  display: block;
+  height: 62px;
+  width: auto;
+}
+
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 14px;
+}
+
+.footer-logo img {
+  display: block;
+  height: 88px;
+  width: auto;
+}
+
+@media (max-width: 576px) {
+  .navbar-brand.brand-logo img {
+    height: 50px;
+  }
 }

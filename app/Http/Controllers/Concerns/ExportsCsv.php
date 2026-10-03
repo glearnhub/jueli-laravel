@@ -20,10 +20,24 @@ trait ExportsCsv
         $filename = $filenamePrefix.'-'.now()->format('Y-m-d-His');
 
         return match (request('format', 'csv')) {
-            'xlsx' => Excel::download(new GenericExport($headings, $rows), "{$filename}.xlsx"),
+            'xlsx' => Excel::download(new GenericExport($headings, $this->neutraliseFormulas($rows)), "{$filename}.xlsx"),
             'pdf' => Pdf::loadView('admin.exports.pdf', compact('title', 'headings', 'rows'))->download("{$filename}.pdf"),
-            default => $this->csvResponse(array_merge([$headings], $rows), $filenamePrefix),
+            default => $this->csvResponse(array_merge([$headings], $this->neutraliseFormulas($rows)), $filenamePrefix),
         };
+    }
+
+    /**
+     * Stop spreadsheet apps from running user-submitted text (e.g. a contact form
+     * message starting with "=HYPERLINK(...)") as a formula (CSV/formula injection).
+     */
+    private function neutraliseFormulas(array $rows): array
+    {
+        return array_map(fn (array $row) => array_map(
+            fn ($cell) => is_string($cell) && ! is_numeric($cell) && preg_match('/^[=+\-@\t\r]/', $cell)
+                ? "'".$cell
+                : $cell,
+            $row
+        ), $rows);
     }
 
     private function csvResponse(array $rows, string $filenamePrefix): Response

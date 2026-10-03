@@ -18,6 +18,10 @@ class RolePermissionSeeder extends Seeder
             ['slug' => 'products.manage', 'name' => 'Manage Products', 'group' => 'Products'],
             ['slug' => 'categories.view', 'name' => 'View Categories', 'group' => 'Categories'],
             ['slug' => 'categories.manage', 'name' => 'Manage Categories', 'group' => 'Categories'],
+            ['slug' => 'services.view', 'name' => 'View Services', 'group' => 'Services'],
+            ['slug' => 'services.manage', 'name' => 'Manage Services', 'group' => 'Services'],
+            ['slug' => 'pages.view', 'name' => 'View Page Heroes', 'group' => 'Pages'],
+            ['slug' => 'pages.manage', 'name' => 'Manage Page Heroes', 'group' => 'Pages'],
             ['slug' => 'leaders.view', 'name' => 'View Team', 'group' => 'Team'],
             ['slug' => 'leaders.manage', 'name' => 'Manage Team', 'group' => 'Team'],
             ['slug' => 'messages.view', 'name' => 'View Messages', 'group' => 'Messages'],
@@ -43,9 +47,12 @@ class RolePermissionSeeder extends Seeder
             ['slug' => 'manager'],
             ['name' => 'Manager']
         );
-        $manager->permissions()->sync(Permission::whereIn('slug', [
+        // syncWithoutDetaching so re-running the seeder never strips permissions edited in the admin panel.
+        $manager->permissions()->syncWithoutDetaching(Permission::whereIn('slug', [
             'products.view', 'products.manage',
             'categories.view', 'categories.manage',
+            'services.view', 'services.manage',
+            'pages.view', 'pages.manage',
             'leaders.view', 'leaders.manage',
             'messages.view',
         ])->pluck('id'));
@@ -54,9 +61,11 @@ class RolePermissionSeeder extends Seeder
             ['slug' => 'editor'],
             ['name' => 'Editor']
         );
-        $editor->permissions()->sync(Permission::whereIn('slug', [
+        $editor->permissions()->syncWithoutDetaching(Permission::whereIn('slug', [
             'products.view', 'products.manage',
             'categories.view', 'categories.manage',
+            'services.view', 'services.manage',
+            'pages.view', 'pages.manage',
             'leaders.view', 'leaders.manage',
         ])->pluck('id'));
     }

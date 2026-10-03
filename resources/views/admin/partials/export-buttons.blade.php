@@ -1,7 +1,7 @@
 @php
     $params = request()->query();
 @endphp
-<div class="d-flex gap-2 no-print">
+<div class="d-flex flex-wrap gap-2 no-print">
     <button type="button" class="btn btn-dark btn-sm" onclick="window.print()">
         <i class="bi bi-printer"></i> Print
     </button>

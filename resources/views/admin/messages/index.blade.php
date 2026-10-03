@@ -10,7 +10,7 @@
             <form method="GET" class="row gy-2 gx-2 align-items-end">
                 <div class="col-auto">
                     <label class="form-label small mb-1">Search</label>
-                    <input type="text" class="form-control form-control-sm" name="search" placeholder="Name, email, subject..."
+                    <input type="text" class="form-control form-control-sm" name="search" aria-label="Search" placeholder="Name, email, subject..."
                         value="{{ request('search') }}">
                 </div>
                 <div class="col-auto">
@@ -22,7 +22,7 @@
     </div>
 
     <div class="card">
-        <div class="card-header d-flex justify-content-between align-items-center bg-dark text-white">
+        <div class="card-header d-flex justify-content-between align-items-center flex-wrap gap-2 bg-dark text-white">
             <strong>Contact Messages</strong>
             @include('admin.partials.export-buttons', ['exportRouteName' => 'admin.messages.export'])
         </div>

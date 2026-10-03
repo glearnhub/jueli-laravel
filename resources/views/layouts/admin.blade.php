@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Admin - Jueli Engineering Ltd')</title>
 
-    <link rel="icon" type="image/png" href="{{ asset('img/logo_2.png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
@@ -17,6 +17,7 @@
 <body>
     @php
         $productsOpen = request()->routeIs('admin.products.*') || request()->routeIs('admin.categories.*');
+        $servicesOpen = request()->routeIs('admin.services.*') || request()->routeIs('admin.hero-slides.*');
         $reportsOpen = request()->boolean('report');
         $settingsOpen = request()->routeIs('admin.settings.*') || request()->routeIs('admin.users.*') || request()->routeIs('admin.roles.*') || request()->routeIs('admin.activity-logs.*');
         $unreadMessages = auth()->user()?->hasPermission('messages.view')
@@ -30,14 +31,14 @@
     <nav class="navbar navbar-expand-lg fixed-top no-print">
         <div class="container-fluid">
             <div class="d-flex align-items-center">
-                <button class="navbar-toggler me-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar">
+                <button class="navbar-toggler me-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar" aria-label="Open navigation menu">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 @php
                     $pageTitle = \Illuminate\Support\Str::before($__env->yieldContent('title', 'Dashboard - Admin'), ' - Admin');
                 @endphp
                 <div>
-                    <div class="top-page-title">{{ $pageTitle }}</div>
+                    <h1 class="top-page-title">{{ $pageTitle }}</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb top-breadcrumb mb-0">
                             <li class="breadcrumb-item"><a href="{{ route('admin.dashboard') }}" class="text-white-50 text-decoration-none">Admin</a></li>
@@ -138,6 +139,36 @@
                                         </a>
                                     </li>
                                 </ul>
+                            </li>
+                        @endcan
+
+                        @can('services.view')
+                            <li>
+                                <a href="#servicesSubmenu" class="nav-link px-3 d-flex align-items-center" data-bs-toggle="collapse"
+                                    aria-expanded="{{ $servicesOpen ? 'true' : 'false' }}">
+                                    <i class="bi bi-tools me-2"></i>Services
+                                    <i class="bi bi-chevron-down ms-auto small"></i>
+                                </a>
+                                <ul class="collapse list-unstyled ps-4 {{ $servicesOpen ? 'show' : '' }}" id="servicesSubmenu">
+                                    <li>
+                                        <a href="{{ route('admin.hero-slides.index') }}" class="nav-link px-3 {{ request()->routeIs('admin.hero-slides.*') ? 'active' : '' }}">
+                                            <i class="bi bi-dot me-1"></i>Hero Slides
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ route('admin.services.index') }}" class="nav-link px-3 {{ request()->routeIs('admin.services.*') ? 'active' : '' }}">
+                                            <i class="bi bi-dot me-1"></i>All Services
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        @endcan
+
+                        @can('pages.view')
+                            <li>
+                                <a href="{{ route('admin.page-heroes.index') }}" class="nav-link px-3 {{ request()->routeIs('admin.page-heroes.*') ? 'active' : '' }}">
+                                    <i class="bi bi-image me-2"></i>Page Heroes
+                                </a>
                             </li>
                         @endcan
 
